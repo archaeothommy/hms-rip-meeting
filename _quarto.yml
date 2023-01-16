@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "hms-rip23"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    right: 
+      - about.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    backgroundcolor: white
+    linkcolor: "#db2929"
+    toc: true
+
+
+
