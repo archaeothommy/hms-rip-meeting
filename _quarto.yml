@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "hms-rip23"
@@ -18,5 +19,6 @@ format:
     linkcolor: "#db2929"
     toc: true
 
-
-
+execute:
+  freeze: auto
+  
