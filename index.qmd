@@ -1,11 +1,12 @@
 ---
-title: "hms-rip23"
+title: "Historical Metallurgy Society"
 ---
 
-This is a Quarto website.
+## Research in Progress Meeting 2023
+The [Historical Metallurgy Society](https://historicalmetallurgy.org/) cordially invites you to their Research in Progress Meeting 2023 on *Saturday, 22^nd^ April, 2023* held *online* via Zoom *free of charge*.  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[Submit abstract]()  
+[Registration]()
 
-```{r}
-1 + 1
-```
+### Code of conduct
+This is the code of cinducts
