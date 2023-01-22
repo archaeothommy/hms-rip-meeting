@@ -1,1 +1,1 @@
-Sitemap: https://github.com/archaeothommy/hms-rip23/sitemap.xml
+Sitemap: https://archaeothommy.github.io/hms-rip23/sitemap.xml
