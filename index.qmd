@@ -7,19 +7,19 @@ pagetitle: "HMS Research in Progress Meeting 2023"
 ::: {.callout-important icon=false} 
 
 # Important dates
-31 March -- Deadline for [abstracts](https://forms.gle/PJDpChyRJ7p7TKPk7) (there won't be any extension!)  
+31 March -- Deadline for [abstracts](https://forms.gle/PJDpChyRJ7p7TKPk7){target="_blank"} (there won't be any extension!)  
 10 April -- Announcement of abstracts decisions  
-20 April -- Deadline for [registrations](https://forms.gle/oZnQKKX5VM6Vj1aN8)  
+20 April -- Deadline for [registrations](https://forms.gle/oZnQKKX5VM6Vj1aN8){target="_blank"}  
 22 April -- Research in Progress Meeting  
 14 May -- Attendance certificates sent to presenters
 
 ::: 
 
 ### Call for Paper
-The [Historical Metallurgy Society](https://historicalmetallurgy.org/) cordially invites you to their Research in Progress Meeting 2023 on Saturday, 22^nd^ April, 2023 held online via Zoom free of charge.  
+The [Historical Metallurgy Society](https://historicalmetallurgy.org/){target="_blank"} cordially invites you to their Research in Progress Meeting 2023 on Saturday, 22^nd^ April, 2023 held online via Zoom free of charge.  
 
-[Submit abstract](https://forms.gle/PJDpChyRJ7p7TKPk7)  
-[Registration](https://forms.gle/oZnQKKX5VM6Vj1aN8)
+[Submit abstract](https://forms.gle/PJDpChyRJ7p7TKPk7){target="_blank"}  
+[Registration](https://forms.gle/oZnQKKX5VM6Vj1aN8){target="_blank"}
 
 <!--
 ### Programme
