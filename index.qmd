@@ -1,12 +1,42 @@
 ---
-title: "Historical Metallurgy Society"
+pagetitle: "HMS Research in Progress Meeting 2023"
 ---
 
 ## Research in Progress Meeting 2023
-The [Historical Metallurgy Society](https://historicalmetallurgy.org/) cordially invites you to their Research in Progress Meeting 2023 on *Saturday, 22^nd^ April, 2023* held *online* via Zoom *free of charge*.  
 
-[Submit abstract]()  
-[Registration]()
+::: {.callout-important icon=false} 
 
+# Important dates
+31 March -- Deadline for [abstracts](https://forms.gle/PJDpChyRJ7p7TKPk7) (there won't be any extension!)  
+10 April -- Announcement of abstracts decisions  
+20 April -- Deadline for [registrations](https://forms.gle/oZnQKKX5VM6Vj1aN8)  
+22 April -- Research in Progress Meeting  
+14 May -- Attendance certificates sent to presenters
+
+::: 
+
+### Call for Paper
+The [Historical Metallurgy Society](https://historicalmetallurgy.org/) cordially invites you to their Research in Progress Meeting 2023 on Saturday, 22^nd^ April, 2023 held online via Zoom free of charge.  
+
+[Submit abstract](https://forms.gle/PJDpChyRJ7p7TKPk7)  
+[Registration](https://forms.gle/oZnQKKX5VM6Vj1aN8)
+
+<!--
+### Programme
+[UK = UTC +1  
+Central Europe = UTC +2  
+Eastern Time (USA) = UTC -4  
+China = UTC +8  
+India = UTC +5:30  
+You can convert to your local time zone with e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T090000&p1=1440)]{.aside}
+
+| Time (UTC) | Contribution |
+|------|----------------|
+|9:30 | *Meow et al.* <br> The purrfect burrito |
+
+-->
 ### Code of conduct
-This is the code of cinducts
+The meeting will have a code of conduct. 
+
+### Contact
+The meeting is organised by [Thomas Rose](mailto:t.rose@em.uni-frankfurt.de). Please write him for any inquiries about the meeting. 

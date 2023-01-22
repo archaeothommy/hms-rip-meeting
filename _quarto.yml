@@ -1,16 +1,19 @@
 project:
   type: website
-
+    
 website:
+  site-url: https://archaeothommy.github.io/hms-rip23
+  repo-url: https://github.com/archaeothommy/hms-rip23/
+  favicon: favicon.png
   title: "![Logo HMS](https://historicalmetallurgy.org/wp-content/uploads/2020/02/Logo120.png){height=60px}"
   navbar:
     left:
       - href: index.qmd
-        text: "Research in Progress Meeting 2023 | 22^nd^ April, 2023 | online (Zoom)"
-#      - href: 
-#        text: "Submit Abstract"
-#      - href: 
-#        text: "Registration"
+        text: "Research in Progress Meeting 2023 | 22^nd^ April, 2023 | online"
+      - href: https://forms.gle/PJDpChyRJ7p7TKPk7
+        text: "Submit Abstract"
+      - href: https://forms.gle/oZnQKKX5VM6Vj1aN8
+        text: "Register"
     right: 
       - about.qmd
 
@@ -21,6 +24,7 @@ format:
     backgroundcolor: white
     linkcolor: "#db2929"
     toc: true
+    toc-location: left
 
 execute:
   freeze: auto
