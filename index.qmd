@@ -16,6 +16,26 @@ pagetitle: "HMS Research in Progress Meeting 2023"
 
 ::: 
 
+### Programme
+
+[Eastern Time (USA) = UK -5 
+Central Europe = UK +1  
+India = UK +4:30  
+Japan = UK +8  
+You can convert to your local time zone with e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T090000&p1=136)]{.aside}
+
+The meeting will start 10:00 UK time. 
+
+More details will become available on 14 April. 
+
+
+<!--
+| Time (UK) | Contribution |
+|------|----------------|
+|9:30 | *Meow et al.* <br> The purrfect burrito |
+
+-->
+
 ### Call for Papers
 The Research in Progress Meeting 2023 of the [Historical Metallurgy Society](https://historicalmetallurgy.org/){target="_blank"} will take place online on Saturday, 22^nd^ of April. It provides a forum for everyone working on topics related to ancient and historical metallurgical practices, the past use of metal objects, and related fields. We are keen to learn more about your ongoing or recently finished projects! The meeting aims to foster links between the different disciplines and geographical regions. Therefore, we particularly encourage submissions from early career researchers, contract archaeologists/conservators, and colleagues from outside Europe. There will be an HMS prize for the best student presentation. 
 
@@ -27,20 +47,6 @@ The programme and any updates will be announced here and circulated by mail. Gen
 
 We are looking forward to seeing you in April! 
 
-<!--
-### Programme
-[UK = UTC +1  
-Central Europe = UTC +2  
-Eastern Time (USA) = UTC -4  
-China = UTC +8  
-India = UTC +5:30  
-You can convert to your local time zone with e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T090000&p1=1440)]{.aside}
-
-| Time (UTC) | Contribution |
-|------|----------------|
-|9:30 | *Meow et al.* <br> The purrfect burrito |
-
--->
 ### Code of conduct
 All participants at the Research in Progress Meeting 2023 agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to providing an inclusive, respectful, safe, friendly, and welcoming online meeting for all participants.
 
