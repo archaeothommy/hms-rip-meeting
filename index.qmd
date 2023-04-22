@@ -9,7 +9,7 @@ pagetitle: "HMS Research in Progress Meeting 2023"
 ## Important dates
 ~~31 March -- Deadline for [abstracts](https://forms.gle/PJDpChyRJ7p7TKPk7){target="_blank"} (there won't be any extension!)~~  
 ~~10 April -- Announcement of abstracts decisions~~   
-20 April -- Deadline for [registration](https://forms.gle/oZnQKKX5VM6Vj1aN8){target="_blank"}  
+~~20 April -- Deadline for [registration](https://forms.gle/oZnQKKX5VM6Vj1aN8){target="_blank"}~~  
 21 April -- Reminder with meeting details sent to participants  
 22 April -- Research in Progress Meeting  
 14 May -- Attendance certificates sent to presenters
@@ -35,7 +35,7 @@ Presentations will be 15 min + 5 min discussion or 6 min + 4 min discussion.
 |10:50 | M. Charlton, X. (Janice) Li, A. Bevan: *Emperor Qin Shi Huang’s iron*|
 |11:10 | X. Michel-Tanaka: *The evolution of furnace wall making in japanese traditional iron smelting*|
 |11:30 | M. Charlton: *New approaches to old methods: archaeometallurgical analysis at the UCL Institute of Archaeology*|
-|11:50 | S. Naher: *Archaeo-metallurgical studies of silver punch-marked coins from Tekttha, Paschim Raghunathpur, Naogaon, Bangladesh*|
+|11:50 | ~~S. Naher: *Archaeo-metallurgical studies of silver punch-marked coins from Tekttha, Paschim Raghunathpur, Naogaon, Bangladesh*~~|
 |12:00 | Break |
 |12:30 | B. Cornelis, A. Wittke, D. Berger: *Disentangling the Sögel-Wohlde blade tradition of the Nordic Bronze Age through a multi-proxy approach*|
 |12:50 | M. Odler: *News on the research of early ancient Egyptian and Nubian copper metallurgy*|
