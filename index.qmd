@@ -31,7 +31,7 @@ Presentations will be 15 min + 5 min discussion or 6 min + 4 min discussion.
 |------|----------------|
 |10:00 | Welcome        |
 |10:10 | N. Kucukarslan, T. Ota, C. Potiszil, K. Kobayashi, E. Nakamura, S. Omura: *Searching for clues about the early iron history in Central Anatolia*|
-|10:30 | E. Vodyasov, O. Zaitceva, M. Vavulin: *Nomadic iron production in the Altai Mountains in the 1^st^ millennium AD: Advanced technology of box-shape furnaces*|
+|10:30 | ~~E. Vodyasov, O. Zaitceva, M. Vavulin: *Nomadic iron production in the Altai Mountains in the 1^st^ millennium AD: Advanced technology of box-shape furnaces*~~|
 |10:50 | M. Charlton, X. (Janice) Li, A. Bevan: *Emperor Qin Shi Huang’s iron*|
 |11:10 | X. Michel-Tanaka: *The evolution of furnace wall making in japanese traditional iron smelting*|
 |11:30 | M. Charlton: *New approaches to old methods: archaeometallurgical analysis at the UCL Institute of Archaeology*|
