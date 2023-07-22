@@ -1,5 +1,5 @@
 ---
-pagetitle: "HMS Research in Progress Meeting 2023"
+pagetitle: "HMS Research in Progress Meeting 2023-2"
 ---
 
 ## Research in Progress Meeting 2023
@@ -7,15 +7,17 @@ pagetitle: "HMS Research in Progress Meeting 2023"
 ::: {.callout-important icon=false} 
 
 ## Important dates
-~~31 March -- Deadline for [abstracts](https://forms.gle/PJDpChyRJ7p7TKPk7){target="_blank"} (there won't be any extension!)~~  
-~~10 April -- Announcement of abstracts decisions~~   
-~~20 April -- Deadline for [registration](https://forms.gle/oZnQKKX5VM6Vj1aN8){target="_blank"}~~  
-~~21 April -- Reminder with meeting details sent to participants~~  
-22 April -- Research in Progress Meeting  
-14 May -- Attendance certificates sent to presenters
+01 October -- Deadline for [abstracts](https://forms.gle/4WL3oqG4vHh1F7ti7){target="_blank"} (there won't be any extension!)  
+15 October -- Announcement of abstracts decisions   
+01 November -- Announcement of programme  
+20 November -- Deadline for [registration](https://forms.gle/dzQemocN3TtX6LhF7){target="_blank"}  
+22 November -- Reminder with meeting details sent to participants  
+24 November -- Research in Progress Meeting  
+30 November -- Attendance certificates sent to presenters
 
 ::: 
 
+<!--
 ### Programme
 
 [Time zone conversions:  
@@ -29,43 +31,24 @@ Presentations will be 15 min + 5 min discussion or 6 min + 4 min discussion.
 
 | Time (UK) | Contribution |
 |------|----------------|
-|10:00 | Welcome        |
-|10:10 | N. Kucukarslan, T. Ota, C. Potiszil, K. Kobayashi, E. Nakamura, S. Omura: *Searching for clues about the early iron history in Central Anatolia*|
-|10:30 | M. Charlton, X. (Janice) Li, A. Bevan: *Emperor Qin Shi Huang’s iron*|
-|10:50 | X. Michel-Tanaka: *The evolution of furnace wall making in japanese traditional iron smelting*|
-|11:10 | E. Vodyasov, O. Zaitceva, M. Vavulin: *Nomadic iron production in the Altai Mountains in the 1^st^ millennium AD: Advanced technology of box-shape furnaces*|
-|11:30 | M. Charlton: *New approaches to old methods: archaeometallurgical analysis at the UCL Institute of Archaeology*|
-|11:50 | ~~S. Naher: *Archaeo-metallurgical studies of silver punch-marked coins from Tekttha, Paschim Raghunathpur, Naogaon, Bangladesh*~~|
-|12:00 | Break |
-|12:30 | B. Cornelis, A. Wittke, D. Berger: *Disentangling the Sögel-Wohlde blade tradition of the Nordic Bronze Age through a multi-proxy approach*|
-|12:50 | M. Odler: *News on the research of early ancient Egyptian and Nubian copper metallurgy*|
-|13:10 | I. Calgaro, M. Radivojevic, M. Altaweel, A. S. Yermolayeva: *Metal production at 2nd millennium BC Taldysai (Central Kazakhstan): An update of research*|
-|13:30 | A. Rodzinka: *Complex metallurgy of the Bronze Age-Iron Age transition in Iran: Archaeomaterials and forensic investigations*|
-|13:50 | I. Stepanov, M. Brauns, U. Avner, N. Lockhoff, A. Eliyahu-Behar: *Investigation of provenance of Nabataean iron tools from the Southern Levant via a combined approach of osmium isotopy and trace element analyses*|
-|14:10 | R. Lazarescu, C. Fenwick, Y. Bokbot, M. Charlton, D. Mattingly, M. Sterry: *Copper production in the medieval Moroccan Sahara*|
-|14:30 | Break|
-|15:00 | J. English, J. Prus: *What were they thinking of? Metalworkers’ thought before modern chemistry*|
-|15:20 | A. B. Daoust: *An introduction to the Roman blacksmith Project: Identity, labour division, and status in funerary imagery*|
-|15:40 | R. J. H. Wanhill, O. Oudbashi: *Fractography and metallography of some heritage metals*|
-|16:00 | O. Oudbashi, F. Carò: *Chemical-microstructural characterization of metalworking technology during the Early Islamic Period of Iran (7^th^ to 14^th^ centuries CE)*|
-|16:20 | S. Greiff: *The 19^th^ c. blast furnace of the Gräfenbach iron works in Germany*|
-|16:40 | Award announcement and closing |
+|##:00 | Welcome        |
+|##:10 | <authors>: *<Title>*|
 
-<!--
+-->
+
 ### Call for Papers
-The Research in Progress Meeting 2023 of the [Historical Metallurgy Society](https://historicalmetallurgy.org/){target="_blank"} will take place online on Saturday, 22^nd^ of April. It provides a forum for everyone working on topics related to ancient and historical metallurgical practices, the past use of metal objects, and related fields. We are keen to learn more about your ongoing or recently finished projects! The meeting aims to foster links between the different disciplines and geographical regions. Therefore, we particularly encourage submissions from early career researchers, contract archaeologists/conservators, and colleagues from outside Europe. There will be an HMS prize for the best student presentation. 
+The Research in Progress Meeting 2023-2 of the [Historical Metallurgy Society](https://historicalmetallurgy.org/){target="_blank"} will take place online on Friday, 24^th^ of November. It provides a forum for everyone working on topics related to ancient and historical metallurgical practices, the past use of metal objects, and related fields. We are keen to learn more about your ongoing or recently finished projects! The meeting aims to foster links between the different disciplines and geographical regions. Therefore, we particularly encourage submissions from early career researchers, contract archaeologists/conservators, and colleagues from outside Europe. There will be an HMS prize for the best student presentation. 
 
-Abstracts (up to 200 words) can be submitted until March, 31^st^ via the [submission form](https://forms.gle/PJDpChyRJ7p7TKPk7){target="_blank"}. Please note that there won't be extensions of the submission deadline. Presentations can be either 6 min or 15 min long (with time for questions added). We encourage all presenters to take full advantage of the flexibility a virtual event provides and present their project in a way that suits them and their project best. Pre-recorded contribution are possible but the presenter must be present in the meeting to answer any questions. Presentations will be scheduled in a way that considers the different presenter’s time zones. 
+Abstracts (up to 200 words) can be submitted until 1^st^ of October via the [submission form](https://forms.gle/4WL3oqG4vHh1F7ti7){target="_blank"}. Please note that there won't be extensions of the submission deadline. Presentations can be either 6 min or 15 min long (with time for questions added). We encourage all presenters to take full advantage of the flexibility a virtual event provides and present their project in a way that suits them and their project best. Pre-recorded contribution are possible but the presenter must be present in the meeting to answer any questions. Presentations will be scheduled in a way that considers the different presenter’s time zones. 
 
-Participation is free of charge. Please register for the event until April, 20 using the [registration form](https://forms.gle/oZnQKKX5VM6Vj1aN8){target="_blank"}. The link to the meeting room will be displayed once you successfully registered.  
+Participation is free of charge. Please register for the event until 20^th^ of November using the [registration form](https://forms.gle/dzQemocN3TtX6LhF7){target="_blank"}. The link to the meeting room will be displayed once you successfully registered.  
 
 The programme and any updates will be announced here and circulated by mail. General enquiries can be directed to Thomas Rose (<t.rose@em.uni-frankfurt.de>).
 
-We are looking forward to seeing you in April! 
--->
+We are looking forward to seeing you in November! 
 
 ### Code of conduct
-All participants at the Research in Progress Meeting 2023 agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to providing an inclusive, respectful, safe, friendly, and welcoming online meeting for all participants.
+All participants at the Research in Progress Meetings agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to providing an inclusive, respectful, safe, friendly, and welcoming online meeting for all participants.
 
 We do not tolerate disruptive or disrespectful behaviour, personal messages, images, or interactions by any participant, in any form, at any aspect of the program including business and social activities, regardless of location. 
 
