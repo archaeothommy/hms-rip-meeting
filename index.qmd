@@ -2,7 +2,7 @@
 pagetitle: "HMS Research in Progress Meeting 2023-2"
 ---
 
-## Research in Progress Meeting 2023
+## Research in Progress Meeting 2023-2
 
 ::: {.callout-important icon=false} 
 
