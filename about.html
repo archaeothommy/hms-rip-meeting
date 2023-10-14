@@ -152,7 +152,7 @@ E-Mail: thomas.rose [at] daad-alumni.de</p>
 </section>
 <section id="privacy" class="level2">
 <h2 class="anchored" data-anchor-id="privacy">Privacy</h2>
-<p>This webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by <a href="https://github.com/" target="_blank">GitHub Inc.</a> using <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages" target="_blank">GitHub pages</a>. The privacy statement of Github is available <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" target="_blank">here</a>.</p>
+<p>This webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by <a href="https://github.com/">GitHub Inc.</a> using <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">GitHub pages</a>. The privacy statement of Github is available <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">here</a>.</p>
 
 
 </section>
@@ -389,6 +389,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("https:\/\/archaeothommy\.github\.io\/hms-rip-meeting\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
