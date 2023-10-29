@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://archaeothommy.github.io/hms-rip-meeting/index.html</loc>
+    <lastmod>2023-10-29T16:44:31.488Z</lastmod>
+  </url>
+  <url>
     <loc>https://archaeothommy.github.io/hms-rip-meeting/about.html</loc>
-    <lastmod>2023-10-14T20:34:30.586Z</lastmod>
+    <lastmod>2023-10-29T16:44:30.308Z</lastmod>
   </url>
   <url>
     <loc>https://archaeothommy.github.io/hms-rip-meeting/archive.html</loc>
-    <lastmod>2023-10-14T20:34:29.270Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archaeothommy.github.io/hms-rip-meeting/index.html</loc>
-    <lastmod>2023-10-14T20:34:30.222Z</lastmod>
+    <lastmod>2023-10-29T16:44:30.996Z</lastmod>
   </url>
 </urlset>
