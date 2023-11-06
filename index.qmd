@@ -30,7 +30,9 @@ India = UK +5:30
 Japan = UK +9  
 You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20231124T100000&p1=136)]{.aside}
 
-Presentations will be 15 min + 5 min discussion or 6 min + 4 min discussion. 
+Presentations will be 15 min + 5 min discussion or 6 min + 4 min discussion.  
+
+Download as [PDF](assets/2023-2_Programme.pdf).
 
 | Time (UK) | Contribution |
 |------|----------------|
