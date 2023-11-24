@@ -2,6 +2,31 @@
 pagetitle: "Archive"
 ---
 
+## Meeting 2023-2
+
+Date: 24 November 2023  
+Participants: ca. 60 participants constantly in Zoom meeting  
+Student award winner: Evgeny Shnyr
+
+### Presentations
+* Diya Mukherjee: *Learning, experience and experiment of ancient copper smelting technology with the reference to Harappan culture*
+* Farhanath K: *Iron technology and its role in shaping socio-cultural dynamics in ancient India during the 1^st^ milllenium BC: A multifaceted perspective*
+* Ivan Stepanov, Michael Brauns, Hannes Knapp, Anna Langgartner & Michael Geschwinde: *Provenance and manufacturing technology of iron catapult bolts as a reflection of the Roman iron supply chains at the Germanic limes*
+* Fabio Spagiari: *On the tracks of the blacksmiths: Metallurgy tools of the Roman age from northern Italy*
+* Sulaiman Ahmed Abiodun: *Iron metallurgy in Medieval and Post-Medieval Ile Ife, Nigeria: Recent excavation at Iyekere *
+* Simon Aumônier & Vanessa Cheel: *Mounted archaeometallurgical samples: Resin ageing effects and remounting for durability*
+* Linn Nordvall: *Plano-convex copper ingots in Scandinavia: A methodological approach*
+* David A. Scott: *Technical examination of a Lydian kline (bed): A unique example of Lydian sophisticated metallurgy*
+* Sabine Plummer & Victoria Sainsbury: *Material analysis of metal inlays in ball-headed clubs from the Ashmolean Tradescant Collection*
+* Evgeny Shnyr: *Data science in the service of archaeology: Pinpointing the geographical source of ancient lead-containing metals using machine learning*
+* Thomas Rose, Sabine Klein, Katrin J. Westner & Yiu-Kang Hsu: *News from the GlobaLID engine room*
+* Peter Bray & Philippa Walton: *A new copper alloy chemical analysis project for the UK 1^st^ Millennium AD, employing Microwave Plasma-Atomic Emission Spectrometry (MP-AES): REMADE, University of Reading*
+* Malou Blank & Serena Sabatini: *Copper in the Early Neolithic, a TRB flat axe from inland Western Sweden*
+* Mathias Mehofer & Mario Gavranovic: *Archaeometallurgical studies on the Bronze Age metal procurement on the western and central Balkan*
+* Stephanie Aulsebrook: *The complex lives of ‘meaningless scraps’: Reuse and upcycling at Late Bronze Age Mycenae*
+
+Download programme as [PDF](assets/2023-2_Programme.pdf).
+
 ## Meeting 2023-1
 
 Date: 22 April 2023  

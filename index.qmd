@@ -2,8 +2,13 @@
 pagetitle: "HMS Research in Progress Meeting 2023-2"
 ---
 
-# Research in Progress Meeting 2023-2
+# Research in Progress Meeting 2024
 
+The meeting will take place in the second half of 2024. More information will be announced in due time. 
+
+Stay tuned by [following us on Facebook](https://www.facebook.com/profile.php?id=61552794191692), browsing through the [HMS webpage](https://historicalmetallurgy.org/)  or [reading our newsletter 'The Crucible'](https://historicalmetallurgy.org/publications/hms-newsletter/).
+
+<!--
 ::: {.callout-important icon=false} 
 
 ## Important dates
@@ -16,11 +21,15 @@ pagetitle: "HMS Research in Progress Meeting 2023-2"
 25 November -- Attendance certificates sent to presenters
 
 ::: 
+-->
 
+<!--
 ## Registration
 
 Participation is free of charge. Please register for the event until 20^th^ of November using the [registration form](https://forms.gle/dzQemocN3TtX6LhF7). The link to the meeting room will be displayed once you successfully registered.  
+-->
 
+<!--
 ## Programme
 
 [Time zone conversions:  
@@ -37,24 +46,8 @@ Download as [PDF](assets/2023-2_Programme.pdf).
 | Time (UK) | Contribution |
 |------|----------------|
 |10:20 | Welcome |
-|10:30 | Diya Mukherjee: <br> *Learning, experience and experiment of ancient copper smelting technology with the reference to Harappan culture*|
-|10:40 | Farhanath K: <br> *Iron technology and its role in shaping socio-cultural dynamics in ancient India during the 1^st^ milllenium BC: A multifaceted perspective*|
-|11:00 | Ivan Stepanov, Michael Brauns, Hannes Knapp, Anna Langgartner & Michael Geschwinde: <br> *Provenance and manufacturing technology of iron catapult bolts as a reflection of the Roman iron supply chains at the Germanic limes*|
-|11:20 | Fabio Spagiari: <br> *On the tracks of the blacksmiths: Metallurgy tools of the Roman age from northern Italy*|
-|11:40 | Sulaiman Ahmed Abiodun : <br> *Iron metallurgy in Medieval and Post-Medieval Ile Ife, Nigeria: Recent excavation at Iyekere *|
-|12:00 | Break |
-|12:30 | Simon Aumônier & Vanessa Cheel: <br> *Mounted archaeometallurgical samples: Resin ageing effects and remounting for durability*|
-|12:40 | Linn Nordvall: <br> *Plano-convex copper ingots in Scandinavia: A methodological approach*|
-|12:50 | David A. Scott: <br> *Technical examination of a Lydian kline (bed): A unique example of Lydian sophisticated metallurgy*|
-|13:00 | Sabine Plummer & Victoria Sainsbury: <br> *Material analysis of metal inlays in ball-headed clubs from the Ashmolean Tradescant Collection*|
-|13:10 | Evgeny Shnyr: <br> *Data science in the service of archaeology: Pinpointing the geographical source of ancient lead-containing metals using machine learning*|
-|13:30 | Thomas Rose, Sabine Klein, Katrin J. Westner & Yiu-Kang Hsu: <br> *News from the GlobaLID engine room*|
-|13:50 | Break|
-|14:20 | Peter Bray & Philippa Walton: <br> *A new copper alloy chemical analysis project for the UK 1^st^ Millennium AD, employing Microwave Plasma-Atomic Emission Spectrometry (MP-AES): REMADE, University of Reading*|
-|14:40 | Malou Blank & Serena Sabatini: <br> *Copper in the Early Neolithic, a TRB flat axe from inland Western Sweden*|
-|14:50 | Mathias Mehofer & Mario Gavranovic: <br> *Archaeometallurgical studies on the Bronze Age metal procurement on the western and central Balkan*|
-|15:10 | Stephanie Aulsebrook: <br> *The complex lives of ‘meaningless scraps’: Reuse and upcycling at Late Bronze Age Mycenae*|
-|15:20 | Awards announcement and farewell |
+|10:30 | <authors: <br> *<title>*|
+-->
 
 <!--
 ### Call for Papers
@@ -81,4 +74,4 @@ If a participant engages in harassing behaviour, the event organisers may take a
 We value your attendance and want the Research in Progress Meeting 2023-2 to be a safe place for everybody. 
 
 ## Contact
-The meeting is organised by [Thomas Rose](mailto:t.rose@em.uni-frankfurt.de). Please write him for any inquiries about the meeting. 
+The meetings are organised by [Thomas Rose](mailto:t.rose@em.uni-frankfurt.de). Please write him for any inquiries about the meeting. 
