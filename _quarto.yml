@@ -9,11 +9,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: "Research in Progress Meeting 2024 | tba  | online"
-#      - href: https://forms.gle/4WL3oqG4vHh1F7ti7
-#        text: "Submit Abstract"
-#      - href: https://forms.gle/dzQemocN3TtX6LhF7
-#        text: "Register"
+        text: "Research in Progress Meeting 2024 | 22 November  | online"
+      - href: https://forms.gle/4WL3oqG4vHh1F7ti7
+        text: "Submit Abstract"
+      - href: https://forms.gle/dzQemocN3TtX6LhF7
+        text: "Register"
     right: 
       - href: archive.qmd
         text: "Archive"
@@ -28,6 +28,15 @@ format:
     toc: true
     toc-location: left
     link-external-newwindow: true
+    margin-header: |
+      ::: {.callout}
+      ## More about HMS 
+      * [HMS webpage](https://historicalmetallurgy.org/)  
+      * [HMS on Facebook](https://www.facebook.com/profile.php?id=61552794191692)  
+      * Read the newsletter [The Crucible](https://historicalmetallurgy.org/publications/hms-newsletter/)  
+      * Read the journal [Historical Metallurgy](https://www.hmsjournal.org/)
+      :::
+
 
 execute:
   freeze: auto

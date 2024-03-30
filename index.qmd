@@ -1,33 +1,38 @@
 ---
-pagetitle: "HMS Research in Progress Meeting 2023-2"
+pagetitle: "HMS Research in Progress Meeting 2024"
 ---
 
 # Research in Progress Meeting 2024
 
-The meeting will take place in the second half of 2024. More information will be announced in due time. 
-
-Stay tuned by [following us on Facebook](https://www.facebook.com/profile.php?id=61552794191692), browsing through the [HMS webpage](https://historicalmetallurgy.org/)  or [reading our newsletter 'The Crucible'](https://historicalmetallurgy.org/publications/hms-newsletter/).
-
-<!--
 ::: {.callout-important icon=false} 
 
 ## Important dates
-~~01 October -- Deadline for [abstracts](https://forms.gle/4WL3oqG4vHh1F7ti7) (there won't be any extension!)~~  
-~~15 October -- Announcement of abstracts decisions~~  
-~~01 November -- Announcement of programme~~  
-~~20 November -- Deadline for [registration](https://forms.gle/dzQemocN3TtX6LhF7)~~  
-~~22 November -- Reminder with meeting details sent to participants~~  
-24 November -- Research in Progress Meeting  
+01 September -- Abstract submission and registration opens  
+01 October -- Deadline for [abstracts](https://forms.gle/4WL3oqG4vHh1F7ti7) (there won't be any extension!)  
+15 October -- Announcement of abstracts decisions  
+01 November -- Announcement of programme  
+18 November -- Deadline for [registration](https://forms.gle/dzQemocN3TtX6LhF7)  
+20 November -- Reminder with meeting details sent to participants  
+22 November -- Research in Progress Meeting  
 25 November -- Attendance certificates sent to presenters
 
 ::: 
--->
 
-<!--
+## Call for Papers
+The Research in Progress Meeting 2024 of the [Historical Metallurgy Society](https://historicalmetallurgy.org/) will take place online on Friday, 22^nd^ of November. It provides a forum for everyone working on topics related to ancient and historical metallurgical practices, the past use of metal objects, and related fields. We are keen to learn more about your ongoing or recently finished projects! The meeting aims to foster links between the different disciplines and geographical regions. Therefore, we particularly encourage submissions from early career researchers, contract archaeologists/conservators, and colleagues from outside Europe. There will be an HMS prize for the best student presentation. 
+
+Abstracts (up to 200 words) can be submitted from <!-- Date --> until 1^st^ of October via the [submission form](https://forms.gle/4WL3oqG4vHh1F7ti7). Please note that there won't be an extension of the submission deadline. 
+
+Presentations can be either 6 min or 15 min long (with time for questions added). We encourage all presenters to take full advantage of the flexibility a virtual event provides and present their project in a way that suits them and their project best. Pre-recorded contribution are possible but the presenter must be present in the meeting to answer any questions. Presentations will be scheduled in a way that considers the different presenter’s time zones. 
+
+The programme and any updates will be announced here and circulated by email. General enquiries can be directed to Thomas Rose (<thomas.rose@bergbaumuseum.de>).
+
+We are looking forward to seeing you in November! 
+
 ## Registration
 
-Participation is free of charge. Please register for the event until 20^th^ of November using the [registration form](https://forms.gle/dzQemocN3TtX6LhF7). The link to the meeting room will be displayed once you successfully registered.  
--->
+Participation is free of charge. Please register for the event between 1^st^ of September and 18^th^ of November using the [registration form](https://forms.gle/dzQemocN3TtX6LhF7). The link to the meeting room will be displayed once you successfully registered.  
+
 
 <!--
 ## Programme
@@ -49,19 +54,6 @@ Download as [PDF](assets/2023-2_Programme.pdf).
 |10:30 | <authors: <br> *<title>*|
 -->
 
-<!--
-### Call for Papers
-The Research in Progress Meeting 2023-2 of the [Historical Metallurgy Society](https://historicalmetallurgy.org/) will take place online on Friday, 24^th^ of November. It provides a forum for everyone working on topics related to ancient and historical metallurgical practices, the past use of metal objects, and related fields. We are keen to learn more about your ongoing or recently finished projects! The meeting aims to foster links between the different disciplines and geographical regions. Therefore, we particularly encourage submissions from early career researchers, contract archaeologists/conservators, and colleagues from outside Europe. There will be an HMS prize for the best student presentation. 
-
-Abstracts (up to 200 words) can be submitted until 1^st^ of October via the [submission form](https://forms.gle/4WL3oqG4vHh1F7ti7). Please note that there won't be extensions of the submission deadline. Presentations can be either 6 min or 15 min long (with time for questions added). We encourage all presenters to take full advantage of the flexibility a virtual event provides and present their project in a way that suits them and their project best. Pre-recorded contribution are possible but the presenter must be present in the meeting to answer any questions. Presentations will be scheduled in a way that considers the different presenter’s time zones. 
--->
-
-<!--
-The programme and any updates will be announced here and circulated by mail. General enquiries can be directed to Thomas Rose (<t.rose@em.uni-frankfurt.de>).
-
-We are looking forward to seeing you in November! 
--->
-
 ## Code of conduct
 All participants at the Research in Progress Meetings agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to providing an inclusive, respectful, safe, friendly, and welcoming online meeting for all participants.
 
@@ -71,7 +63,7 @@ Photography, video, recording or screen-captures of session content or presentat
 
 If a participant engages in harassing behaviour, the event organisers may take any action they deem appropriate, including warning the offender and/or expulsion from the event. If you are being harassed, if you notice that someone else is being harassed, or have any other concerns, please contact one of the organisers immediately. 
 
-We value your attendance and want the Research in Progress Meeting 2023-2 to be a safe place for everybody. 
+We value your attendance and want the Research in Progress Meeting 2024 to be a safe place for everybody. 
 
 ## Contact
-The meetings are organised by [Thomas Rose](mailto:t.rose@em.uni-frankfurt.de). Please write him for any inquiries about the meeting. 
+Please write [Thomas Rose](mailto:thomas.rose@bergbaumuseum.de) for any inquiries about the meeting. 
