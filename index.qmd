@@ -10,7 +10,7 @@ pagetitle: "HMS Research in Progress Meeting 2024"
 ~~01 September -- Abstract submission and registration opens~~  
 ~~01 October -- Deadline for [abstracts](https://forms.gle/4WL3oqG4vHh1F7ti7) (there won't be any extension!)~~  
 ~~15 October -- Announcement of abstracts decisions~~  
-01 November -- Announcement of programme  
+~~01 November -- Announcement of programme~~  
 18 November -- Deadline for [registration](https://forms.gle/dzQemocN3TtX6LhF7)  
 20 November -- Reminder with meeting details sent to participants  
 22 November -- Research in Progress Meeting  
@@ -34,7 +34,6 @@ The programme and any updates will be announced here and circulated by email. Ge
 We are looking forward to seeing you in November! 
 
 
-<!--
 ## Programme
 
 [Time zone conversions:  
@@ -46,13 +45,34 @@ You can convert to your local time zone with, e.g., [timeanddate.com](https://ww
 
 Presentations will be 15 min + 5 min discussion or 6 min + 4 min discussion.  
 
-Download as [PDF](assets/2023-2_Programme.pdf).
+Abstracts can be found in the [abstract repository](). 
 
 | Time (UK) | Contribution |
 |------|----------------|
-|10:20 | Welcome |
-|10:30 | <authors: <br> *<title>*|
--->
+|10:00 | Welcome |
+|10:10 | Rithik Pramod: <br> [Beyond the miniature: An exploration of the artistic and religious dimensions of Tamil Nadu's bronze scupltures]() |
+|10:30 | Sabikun Naher, Md. Ashraful Alam: <br> [Surface enrichment and deterioration patterns of two silver punch-marked coins from Tekttha, Naogaon, Bangladesh: An X-ray diffraction analysis]() |
+|10:40 | Meghan Parker, Ineke Joosten, Rosalijn van IJken: <br> [Degradation of tin foils on historic Leyden jars]() |
+|10:50 | Katherine Rothwell, Andrew R. C. Grigg, Nicola Grahamslaw, James M. Byrne: <br> [Characterising the corrosion of the SS Great Britain using handheld XRF]() |
+|11:10 | Julia Montes-Landa, Mark Box, Caroline Archer-Parré, Ann-Marie Carey, Maciej Pawlikowski, Marcos Martinón-Torres: <br> [Reconstructing letterpress technology through the Baskerville punches: new scientific data to reverse-engineer a practically lost craft]() |
+|11:30 | Anaïs Walsdorf: <br> [Race and civilisation in John Percy’s Metallurgy (1864)]() |
+|11:50 | Break |
+|12:20 | Donald B. Wagner: <br> [The archaeometallurgy of iron: An introduction for students of archaeology]() |
+|12:30 | Kutsi Akcicek, Sinan Acikgoz, Heather Viles: <br> [Comparative optical, chemical, and mechanical characterisation of 18th century and modern re-rolled wrought irons]() |
+|12:50 | Tobias Heal, Alexandre Disser, Thomas Fischbach: <br> [Acies Ferri: Construction and provenance of Merovingian seaxes from 5th-8th century Alsace]() |
+|13:10 | Léa Chanal, Guillaume Sarah, Florian Téreygeol: <br> [Improving our knowledge of the circulation of copper and its alloys: the case of the French Pyrenees at the end of the Middle Ages]() |
+|13:30 | Alexandre Disser: <br> [Recent and ongoing developments of a database related to iron metallurgy]() |
+|13:50 | Lilo Nilima: <br> [Marginalization and perception: The role of disabled in archaeometallurgical societies of Southern highlands, Tanzania.]() |
+|14:00 | Break |
+|14:30 | Peter Northover, Vanessa Cheel: <br> [Historical Metallurgy Society Projects: Glossary of Terms and Atlas of Microstructures]() |
+|14:50 | Frank Hulek, Yannis Bassiakos, Eleni Filippaki: <br> [Studying the different mineralizations of Laurion through a combined geological and archaeological approach]() |
+|15:00 | Ivan Stepanov, Khaled Al-Bashaireh, Michael Brauns: <br> [The first insight into the origins of Ammonite iron through Os isotope analyses of iron arrowheads from the Late Iron Age cemetery of Tell El Mazar, Jordan]() |
+|15:20 | Paul Rondelez, Rowan Taylor: <br> [New insights in early bloom processing]() |
+|15:40 | Joshua Koss, Patrick Thaden: <br> [An experimental Investigation of Medieval Helmet Forging Techniques]()|
+|16:00 | Richard Williams: <br> [Characteristics of malleable irons by the fining techniques used in their manufacture]() |
+|16:20 | Awards announcement, farewell |
+
+
 
 ## Code of conduct
 All participants at the Research in Progress Meetings agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to providing an inclusive, respectful, safe, friendly, and welcoming online meeting for all participants.

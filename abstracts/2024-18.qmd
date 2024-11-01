@@ -1,0 +1,25 @@
+---
+title: "New insights in early bloom processing"
+date: "2024"
+date-format: "YYYY"
+categories: [iron, bloomery, bloom processing, prehistory]
+author: 
+  - name: Paul Rondelez
+    corresponding: true
+    email: prondelez@yahoo.com
+  - name: Rowan Taylor
+---
+
+Recent archaeological excavations in Ireland have contributed to our understanding of early bloom processing. The presentation will include insights in the organisation of bloom processing, its technology and the installations and tools used.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

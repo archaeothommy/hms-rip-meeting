@@ -1,0 +1,30 @@
+---
+title: "Characterising the corrosion of the SS Great Britain using handheld XRF"
+date: "2024"
+date-format: "YYYY"
+categories: [historic ship, corrosion, iron]
+author: 
+  - name: Katherine Rothwell
+    orcid: 0000-0001-5379-122X
+    corresponding: true
+    email: k.rothwell@bristol.ac.uk
+  - name: Andrew R. C. Grigg
+    orcid: 0000-0003-3738-0214
+  - name: Nicola Grahamslaw
+  - name: James M. Byrne
+    orcid: 0000-0002-4399-7336
+---
+
+The SS Great Britain, designed by Isambard Kingdom Brunel and the largest ship afloat when launched in 1843, is Bristol’s top-rated tourist attraction and makes a vital contribution to the UK’s cultural heritage. However, preserving the salt-water impregnated iron hull remains a challenge. To develop effective and sustainable conservation strategies, a corrosion baseline must be established against which to assess future changes. However, conventional methods for characterising corrosion, which typically involve transporting samples to a laboratory, are impractical for large heritage and often require sample destruction. Therefore, developing in-situ techniques for corrosion assessment is essential for the preservation of cultural heritage. Here, we propose using handheld X-Ray fluorescence (hXRF) as a new approach to characterise corrosion of large-scale heritage iron. The hXRF data offers a comprehensive elemental analysis of the SS Great Britain’s hull, enabling the identification of spatial variations in the corrosion extent. Furthermore, supporting laboratory measurements show that the corrosion layer comprises not only the anticipated iron (oxyhydr)oxides, but also a significant portion of carbonate and silicate minerals. Crucially, the presence of these impermeable phases may inhibit corrosion by acting as a passivation layer that impedes moisture and oxygen from reaching the metallic iron below.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

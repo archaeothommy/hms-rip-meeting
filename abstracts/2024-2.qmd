@@ -1,0 +1,29 @@
+---
+title: "Surface enrichment and deterioration patterns of two silver punch-marked coins from Tekttha, Naogaon, Bangladesh: An X-ray diffraction analysis"
+date: "2024"
+date-format: "YYYY"
+categories: [silver punch-marked coins, X-ray diffraction, surface enrichment, deterioration patterns, Tekttha, Naogaon]
+author: 
+  - name: Sabikun Naher
+    orcid: 0000-0001-9646-4990
+    corresponding: true
+    email: sabikun_shethi@juniv.edu
+  - name: Md. Ashraful Alam
+    orcid: 0000-0002-8987-7858
+---
+
+The study presents a detailed analysis of two silver punch-marked coins from recently discovered early historic site Tekttha, Naogaon, Bangladesh. Using X-ray diffraction (XRD) techniques, this study attempts to provide a thorough understanding of the surface enrichment and deterioration patterns of these coins. Numerous compounds are found in the investigation, including tenorite (CuO), copper oxide (CuO), silver (Ag), copper zinc (CuZn), and zincite (ZnO). 
+The XRD analysis highlights the long-term effects of chemical and environmental interactions, revealing a sophisticated understanding of the surface composition. The presence of zincite indicates complex metallurgical processes, while the detection of copper compounds and their oxides suggests significant corrosion processes. With their insights into the mechanisms of degradation affecting these artifacts, these findings are crucial for conservation efforts.
+This study provides insights into the metallurgical practices and post-depositional alterations of ancient coinage within a region. These results contribute to a broader understanding of the culture and economy of ancient Tekttha, revealing technological capacities and substance dynamics in antiquity. The use of XRD in this context highlights its effective-ness for archaeological science, encouraging non-invasive research that preserves the integrity of artifacts while unveiling their historical narratives.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

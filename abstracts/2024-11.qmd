@@ -1,0 +1,26 @@
+---
+title: "Improving our knowledge of the circulation of copper and its alloys: the case of the French Pyrenees at the end of the Middle Ages"
+date: "2024"
+date-format: "YYYY"
+categories: [archaeometallurgy, archaeometry, copper, circulation, trace elements, Middle Ages]
+author: 
+  - name: Léa Chanal
+    corresponding: true
+    email: lea.chanal@cnrs-orleans.fr
+  - name: Guillaume Sarah
+  - name: Florian Téreygeol
+---
+
+The end of the Middle Ages (13th-15th centuries) was a period of profound political, demographic and economic changes in France. In this context, copper and its alloys were available to all social classes in Europe from the 13th century onwards. However, our knowledge of the production and circulation of copper during this period remains limited. A number of mines in the French Pyrenees that may have contributed to copper production at the end of the Middle Ages have already been identified. Compositional analyses (ICP-MS with laser ablation) have been carried out on selections of archaeological objects dating from this period and found in the area where Pyrenean productions were most widespread. These analyses have made it possible to determine the nature of the alloys and to identify potential minor and trace elements that indicate the use of particular ores or enable metal stocks to be traced. This study will enable to investigate the filiation between ores and objects, in order to study changes in circulation areas and supply circuits for copper alloy products.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

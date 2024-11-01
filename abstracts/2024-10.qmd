@@ -1,0 +1,28 @@
+---
+title: "Acies Ferri: Construction and provenance of Merovingian seaxes from 5th-8th century Alsace"
+date: "2024"
+date-format: "YYYY"
+categories: [archaeometallurgy, seaxes, bladed weapons, early middle ages, provenance]
+author: 
+  - name: Tobias Heal
+    orcid: 0000-0003-4795-0436
+    corresponding: true
+    email: tobias.heal@uliege.be
+  - name: Alexandre Disser
+    orcid: 0000-0003-0914-2606
+  - name: Thomas Fischbach
+---
+
+Bladed weapons have a means of capturing the imagination that is unrivalled by most other archaeological finds. Not only do they possess a certain romantic flair, as prominent markers of social status, they are an opulent display of the techniques available at a given place and time when funding is no object. Swords have typically taken centre stage of both public fancy and academic study, which has sometimes eclipsed interest in other weapons. To wit, seaxes, the characteristic single edged blades found across Early Medieval Western and Central Europe. A scant few from the continent have undergone metallurgical analysis but wide scale studies, comparing typology, chaîne opératoire and provenance have yet to be undertaken. The Acies Ferri PhD is one such study, focusing on 5th-9th weapons between the Seine and Rhine Rivers. The project currently has access to seven swords and thirty-two seaxes, found across the Alsace region of Eastern France. The present paper aims to cover the progress of the PhD project with particular focus on two aspects of the creation of seaxes in Merovingian Alsace: what links, if any, exist between chronology, typology and sword construction? Where did the iron used for these swords come from?
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

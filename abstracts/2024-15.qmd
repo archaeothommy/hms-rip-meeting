@@ -1,0 +1,25 @@
+---
+title: "Historical Metallurgy Society Projects: Glossary of Terms and Atlas of Microstructures"
+date: "2024"
+date-format: "YYYY"
+categories: [archaeometallurgy, historical metallurgy, glossary, microstructure atlas]
+author: 
+  - name: Peter Northover
+    corresponding: true
+    email: pn253@exeter.ac.uk
+  - name: Vanessa Cheel
+---
+
+The Outreach and Value Committee (OVC) of the Historical Metallurgy Society is creating two collaborative projects to provide, on our website, resources for all working in archaeometallurgy: a glossary of terms for these disciplines and an atlas of microstructures from ancient and historic metals and alloys. We invite the community to participate in identifying the words and structures that we need to include and to take part in the research needed to develop the entries in both. At present we are at the design stage and invite participation here too.  Examples of typical entries will be given for discussion (for example the whole family of tin alloys used in the past). The atlas is being developed in collaboration with the Archaeometallurgy Committee of ASM International and the format of the pages will match that of their own online atlas of structures, but we invite members to add their own micrographs and take part in the design and editing. We believe the results of these two collaborative projects will be a rich source of knowledge into the future.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

@@ -1,0 +1,29 @@
+---
+title: "The first insight into the origins of Ammonite iron through Os isotope analyses of iron arrowheads from the Late Iron Age cemetery of Tell El Mazar, Jordan"
+date: "2024"
+date-format: "YYYY"
+categories: [iron provenance, osmium isotopes, Iron Age, Levant, Ammon]
+author: 
+  - name: Ivan Stepanov
+    orcid: 0000-0002-7380-921X
+    corresponding: true
+    email: ivan.stepanov@ceza.de
+  - name: Khaled Al-Bashaireh
+    orcid: 0000-0002-3842-3565
+  - name: Michael Brauns
+    orcid: 0009-0000-5779-4866
+---
+
+Located on the eastern edge of the Jordan River Valley, the Tell El Mazar cemetery dates to the 6th–5th centuries BCE. During this time, despite the growing influence of Babylonian and Persian powers in the region, the Kingdom of Ammon retained a degree of autonomy. The research focuses on the provenance of 12 iron arrowheads from Tell El Mazar. Although the artefacts are heavily corroded, they are suitable for provenance investigation through Os isotope analysis, as osmium remains immobile during corrosion. The results reveal a diverse range of Os isotope ratios (187Os/188Os) across the assemblage, which can be classified into five distinct groups. These findings are further supported by siderophile trace element analyses performed by ICP-MS, indicating the use of multiple ore sources for the production of these weapons. Interestingly, none of the objects are consistent with ores from the Mugharet el-Wardeh, a major ore mine situated just 10 km from Tell El Mazar. Notably, two arrowheads exhibit highly radiogenic isotope compositions (5.255-6.124), which align with the isotope characteristics of copper production waste from the Faynan. This allows to raise new questions about the factors, which contributed to the adoption of iron metallurgy in the Levant.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

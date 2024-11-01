@@ -1,0 +1,25 @@
+---
+title: "An experimental Investigation of Medieval Helmet Forging Techniques"
+date: "2024"
+date-format: "YYYY"
+categories: [Medieval, armour, experimental archeology]
+author: 
+  - name: Joshua Koss
+    corresponding: true
+    email: joshkoss@mac.com
+  - name: Patrick Thaden
+---
+
+This project focuses on the fabrication techniques of one-piece helmets in Europe between the 12th and 15th centuries. The common assumption is that these would be formed from iron and steel sheet using a process called angle raising, which involves hammering from the outside over a stake anvil. However, modern reproductions made in this way deviate significantly from the originals in both interior texture and, most critically, thickness distribution. Our proposed technique, known as stretch raising, produces much closer results by starting from thick plate and working from the inside against a flat anvil. The implicit advantage from a medieval perspective is that this technique can be applied directly to a refined bloom without the need for an intermediate step of sheet metal production. We compare our results against interior textures and thickness data collected from extant examples. We also draw on contemporary artistic depictions and written records, as well as later evidence of comparable techniques from the early modern period, up to the early 20th century.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

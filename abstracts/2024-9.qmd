@@ -1,0 +1,26 @@
+---
+title: "Comparative optical, chemical, and mechanical characterisation of 18th century and modern re-rolled wrought irons"
+date: "2024"
+date-format: "YYYY"
+categories: [wrought iron, Blenheim Palace, cramps, metallography]
+author: 
+  - name: Kutsi Akcicek
+    corresponding: true
+    email: kebl7186@ox.ac.uk
+  - name: Sinan Acikgoz
+  - name: Heather Viles
+---
+
+Wrought iron assemblages from Blenheim Palace (18th century) and Topp & Co (modern re-rolled) were subject to optical, chemical, and mechanical analysis to determine their properties. Samples were prepared using standard metallographic techniques and investigated using optical microscopy, scanning electron microscopy, energy dispersive X-ray spectroscopy, Vicker’s hardness testing, and tensile testing. A MATLAB code was developed to automatically segment and quantify grain and slag inclusion sizes from micrographs. Chemical properties of samples, processed using principal component analysis, highlighted that the iron and slag components have broadly similar chemical compositions. Differences arise due to different manufacturing techniques used in historic (indirect method with charcoal) and modern (indirect method with coal) samples. More importantly, image analysis revealed that both sets of samples feature similar sized slag inclusions and ferrite grains. The Topp & Co assemblage had greater mechanical properties when compared to the Blenheim Palace samples, although this is again explained by manufacturing methods. Based on this analysis, it is judged that the modern Topp & Co wrought iron can sufficiently capture the chemistry and microstructural characteristics of historic 18th century wrought irons.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

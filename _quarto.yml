@@ -9,12 +9,14 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: "Research in Progress Meeting 2024 | 22 November  | online"
+        text: "Research in Progress Meeting 2024<br>22 November  | online"
       - href: https://forms.gle/4WL3oqG4vHh1F7ti7
         text: "Submit Abstract"
       - href: https://forms.gle/dzQemocN3TtX6LhF7
         text: "Register"
     right: 
+      - href: abstracts.qmd
+        text: "Abstract<br>repository"
       - href: archive.qmd
         text: "Archive"
       - about.qmd

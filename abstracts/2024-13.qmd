@@ -1,0 +1,25 @@
+---
+title: "Marginalization and perception: The role of disabled in archaeometallurgical societies of Southern highlands, Tanzania."
+date: "2024"
+date-format: "YYYY"
+categories: [archaeometallurgy, disability]
+author: 
+  - name: Lilo Nilima
+    orcid: 0009-0008-9410-3241
+    corresponding: true
+    email: lilonilima10@gmail.com
+---
+
+This topic based on the proposed study will examine the perceptions and treatment of people with disability and other marginalized populations within archaeometallurgical societies in the Southern Highlands of Tanzania. The primary objective is to understand how societal attitudes towards disability influenced participation in iron working activities, a crucial aspect of these communities’ economic and cultural life. Utilizing a mixed-methods approach, this research will combine archaeological evidence, ethnographic interviews, and historical accounts to investigate the social dynamics surrounding disability in the context of ironworking rituals. Preliminary archaeological findings indicate that marginalized groups often faced systemic exclusion due to prevailing taboos, reflecting broader societal attitudes. However, some archaeological evidence suggests that individuals with disabilities were integrated into specific community roles, challenging narratives of total exclusion. The significance of this research lies in its contribution to contemporary discussions on inclusivity and representation in archaeological narratives. By highlighting the complexities of social inclusion and identity within these ancient societies, this study will advocate for a more nuanced understanding of how perceptions of disability shaped technological practices and social dynamics.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

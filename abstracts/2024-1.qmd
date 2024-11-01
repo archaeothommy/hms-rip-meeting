@@ -1,0 +1,24 @@
+---
+title: "Beyond the miniature: An exploration of the artistic and religious dimensions of Tamil Nadu's bronze scupltures"
+date: "2024"
+date-format: "YYYY"
+categories: [miniature bronzes, lost wax technique, South India]
+author: 
+  - name: Rithik Pramod
+    corresponding: true
+    email: rithik.pramod@ashvitas.com
+---
+
+The production of bronzes in early medieval Tamil Nadu was linked with political and religious developments. The images were produced in large number from the 8th to the 18th century, principally in the Thanjavur and Tiruchchirappalli districts of modern Tamil Nadu and maintained a high standard of excellence for almost 1,000 years. The bronze images of South India are classified into three sections: "Chala" that is moveable, which are in bronze and are easily portable; utsava beras, or procession deities; Achala (immoveable), in stone, large and heavy. In this paper, the researcher will explore the fascinating world of miniature Chala (movable) bronzes from the 17th to 18th centuries AD. The study aims to delve into the complexities of Silpasastra, the traditional art of sculpture-making, to uncover the techniques and processes involved in crafting these exquisite bronze sculptures. By examining historical context, artistic methods, and cultural significance, this research seeks to provide a comprehensive understanding of the craftsmanship and heritage embedded in these remarkable artifact.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

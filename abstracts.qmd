@@ -1,0 +1,29 @@
+---
+title: "Abstract repository"
+listing: 
+  contents: abstracts
+  type: table
+  sort: 
+    - "date"
+    - "title"
+  categories: true
+  page-size: 50
+  table-hover: true
+date-format: "YYYY"
+  
+---
+
+Abstracts of papers presented at the Research in Progress meeting of the Historical Metallurgy Society since 2024. 
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+All abstracts are licensed under a  
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

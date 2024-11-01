@@ -1,0 +1,25 @@
+---
+title: "Recent and ongoing developments of a database related to iron metallurgy"
+date: "2024"
+date-format: "YYYY"
+categories: [Chemical data, global, iron]
+author: 
+  - name: Alexandre Disser
+    orcid: 0000-0003-0914-2606
+    corresponding: true
+    email: disser.alex@gmail.com
+---
+
+For more than 40 years now, numerous researchers in archaeometallurgy have been producing chemical data relating to the exploitation of iron ores, as well as smelting and smithing activities. The aim of the CHIPS database is to bring all this data together and harmonise it in order to facilitate data sharing among archaeometallurgists. Extensive documentation work has also been carried out in order to assess the quality of the data as accurately as possible. We also hope that this database will help to support collaborative research on an international scale in the near future.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

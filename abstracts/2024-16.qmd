@@ -1,0 +1,28 @@
+---
+title: "Studying the different mineralizations of Laurion through a combined geological and archaeological approach"
+date: "2024"
+date-format: "YYYY"
+categories: [lead-silver mineralization, archaeometallurgy, mineralogy]
+author: 
+  - name: Frank Hulek
+    orcid: 0000-0002-4959-735X
+    corresponding: true
+    email: f.hulek@inn.demokritos.gr
+  - name: Yannis Bassiakos
+  - name: Eleni Filippaki
+    orcid: 0000-0003-0881-3674
+---
+
+Since prehistoric times, the Greek Laurion region supplied the Aegean and particularly the Athenians with silver. Around 500 BC, the yield of the mines was considerably expanded, allowing the city-state of Athens to build a new fleet, thus defeating the Persians in 480 BC. This has been linked to the discovery of a deeper, subsurface mineralization, the so-called ‘Third Contact’. Through my Marie Skłodowska Curie Postdoc project at the National Centre for Scientific Research “Demokritos” at Athens I will explore the feasibility of examining any age and geochemical disparities in the different mineralizations at Laurion. This will be achieved by studying ore-samples using mineralogical, chemical as well as lead-isotope analyses, the latter to be conducted at the German Mining Museum. Additionally, the project seeks to correlate ores from distinct contacts with archaeological artefacts crafted from Laurion ores (silver coins, lead, also litharges, slags etc) exhibiting the same lead isotopic signatures. This will make the chronological sequence of mining in the various mineralizations comprehensible, namely the begin of the exploitation of the 'Third Contact'.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::
