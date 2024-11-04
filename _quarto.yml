@@ -32,6 +32,10 @@ format:
     link-external-newwindow: true
     margin-header: |
       ::: {.callout}
+      ## Join HMS! 
+      Not a member yet? Help us to provide these and other services to the community by [joining HMS](https://historicalmetallurgy.org/join-or-renew/).
+      :::
+      ::: {.callout}
       ## More about HMS 
       * [HMS webpage](https://historicalmetallurgy.org/)  
       * [HMS on Facebook](https://www.facebook.com/profile.php?id=61552794191692)  
