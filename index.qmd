@@ -11,7 +11,7 @@ pagetitle: "HMS Research in Progress Meeting 2024"
 ~~01 October -- Deadline for [abstracts](https://forms.gle/4WL3oqG4vHh1F7ti7) (there won't be any extension!)~~  
 ~~15 October -- Announcement of abstracts decisions~~  
 ~~01 November -- Announcement of programme~~  
-18 November -- Deadline for [registration](https://forms.gle/dzQemocN3TtX6LhF7)  
+~~18 November -- Deadline for [registration](https://forms.gle/dzQemocN3TtX6LhF7)~~  
 20 November -- Reminder with meeting details sent to participants  
 22 November -- Research in Progress Meeting  
 25 November -- Attendance certificates sent to presenters
@@ -45,7 +45,7 @@ You can convert to your local time zone with, e.g., [timeanddate.com](https://ww
 
 Presentations will be 15 min + 5 min discussion or 6 min + 4 min discussion.  
 
-Abstracts can be found in the [abstract repository](abstracts.qmd). 
+Abstracts can be found in the [abstract repository](abstracts.qmd) or [downloaded as pdf](assets/HMS-RiP2024_Abstracts.pdf). 
 
 | Time (UK) | Contribution |
 |------|----------------|
