@@ -1,6 +1,35 @@
 ---
-pagetitle: "Archive"
+title: "Meeting Archive"
 ---
+
+
+## Meeting 2024
+
+Date: 22 November 2024  
+Participants: ca. 40 participants constantly in Zoom meeting  
+Student award winner: Léa Chanal
+
+### Presentations
+* Rithik Pramod: [Beyond the miniature: An exploration of the artistic and religious dimensions of Tamil Nadu's bronze scupltures](abstracts/2024-1.qmd)
+* Sabikun Naher, Md. Ashraful Alam: [Surface enrichment and deterioration patterns of two silver punch-marked coins from Tekttha, Naogaon, Bangladesh: An X-ray diffraction analysis](abstracts/2024-2.qmd)
+* Meghan Parker, Ineke Joosten, Rosalijn van IJken: [Degradation of tin foils on historic Leyden jars](abstracts/2024-3.qmd)
+* Katherine Rothwell, Andrew R. C. Grigg, Nicola Grahamslaw, James M. Byrne: [Characterising the corrosion of the SS Great Britain using handheld XRF](abstracts/2024-4.qmd)
+* Julia Montes-Landa, Mark Box, Caroline Archer-Parré, Ann-Marie Carey, Maciej Pawlikowski, Marcos Martinón-Torres: [Reconstructing letterpress technology through the Baskerville punches: new scientific data to reverse-engineer a practically lost craft](abstracts/2024-5.qmd)
+* Anaïs Walsdorf: [Race and civilisation in John Percy’s Metallurgy (1864)](abstracts/2024-6.qmd)
+* Donald B. Wagner: [The archaeometallurgy of iron: An introduction for students of archaeology](abstracts/2024-8.qmd)
+* Kutsi Akcicek, Sinan Acikgoz, Heather Viles: [Comparative optical, chemical, and mechanical characterisation of 18th century and modern re-rolled wrought irons](abstracts/2024-9.qmd)
+* Tobias Heal, Alexandre Disser, Thomas Fischbach: [Acies Ferri: Construction and provenance of Merovingian seaxes from 5th-8th century Alsace](abstracts/2024-10.qmd)
+* Léa Chanal, Guillaume Sarah, Florian Téreygeol: [Improving our knowledge of the circulation of copper and its alloys: the case of the French Pyrenees at the end of the Middle Ages](abstracts/2024-11.qmd)
+* Alexandre Disser: [Recent and ongoing developments of a database related to iron metallurgy](abstracts/2024-12.qmd)
+* Lilo Nilima: [Marginalization and perception: The role of disabled in archaeometallurgical societies of Southern highlands, Tanzania.](abstracts/2024-13.qmd)
+* Peter Northover, Vanessa Cheel: [Historical Metallurgy Society Projects: Glossary of Terms and Atlas of Microstructures](abstracts/2024-15.qmd)
+* Frank Hulek, Yannis Bassiakos, Eleni Filippaki: [Studying the different mineralizations of Laurion through a combined geological and archaeological approach](abstracts/2024-16.qmd)
+* Ivan Stepanov, Khaled Al-Bashaireh, Michael Brauns: [The first insight into the origins of Ammonite iron through Os isotope analyses of iron arrowheads from the Late Iron Age cemetery of Tell El Mazar, Jordan](abstracts/2024-17.qmd)
+* Paul Rondelez, Rowan Taylor: [New insights in early bloom processing](abstracts/2024-18.qmd)
+* Joshua Koss, Patrick Thaden: [An experimental Investigation of Medieval Helmet Forging Techniques](abstracts/2024-19.qmd)|
+* Richard Williams: [Characteristics of malleable irons by the fining techniques used in their manufacture](abstracts/2024-20.qmd)
+
+Download abstracts as [PDF](assets/HMS-RiP2024_Abstracts.pdf). 
 
 ## Meeting 2023-2
 

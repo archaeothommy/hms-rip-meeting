@@ -1,9 +1,12 @@
 ---
-pagetitle: "HMS Research in Progress Meeting 2024"
+pagetitle: "HMS Research in Progress Meeting 2025"
 ---
 
-# Research in Progress Meeting 2024
+# Research in Progress Meeting 2025
 
+The Research in Progress Meeting 2025 of the Historical Metallurgy Society will take place in later November 2025. More details and the call for abstracts will be announced in late Summer 2025.  
+
+<!--
 ::: {.callout-important icon=false} 
 
 ## Important dates
@@ -17,23 +20,25 @@ pagetitle: "HMS Research in Progress Meeting 2024"
 25 November -- Attendance certificates sent to presenters
 
 ::: 
+-->
 
-<!-- ## Call for Papers -->
+<!-- ## Call for Papers
 The Research in Progress Meeting 2024 of the [Historical Metallurgy Society](https://historicalmetallurgy.org/) will take place online on Friday, 22^nd^ of November. It provides a forum for everyone working on topics related to ancient and historical metallurgical practices, the past use of metal objects, and related fields. We are keen to learn more about your ongoing or recently finished projects! The meeting aims to foster links between the different disciplines and geographical regions. Therefore, we particularly encourage submissions from early career researchers, contract archaeologists/conservators, and colleagues from outside Europe. There will be an HMS prize for the best student presentation. 
 
 <!--
 Abstracts (up to 200 words) can be submitted until 1^st^ of October via the [submission form](https://forms.gle/4WL3oqG4vHh1F7ti7). Please note that there won't be an extension of the submission deadline. 
 
 Presentations can be either 6 min or 15 min long (with time for questions added). We encourage all presenters to take full advantage of the flexibility a virtual event provides and present their project in a way that suits them and their project best. Pre-recorded contribution are possible but the presenter must be present in the meeting to answer any questions. Presentations will be scheduled in a way that considers the different presenter’s time zones. 
--->
+--:>
 
 The event is open for everyone irrespective of their HMS membership status. Participation is free of charge. Please register for the event between 1^st^ of September and 18^th^ of November using the [registration form](https://forms.gle/dzQemocN3TtX6LhF7). The link to the meeting room will be displayed once you successfully registered.  
 
 The programme and any updates will be announced here and circulated by email. General enquiries can be directed to Thomas Rose (<thomas.rose@bergbaumuseum.de>).
 
 We are looking forward to seeing you in November! 
+-->
 
-
+<!--
 ## Programme
 
 [Time zone conversions:  
@@ -50,28 +55,9 @@ Abstracts can be found in the [abstract repository](abstracts.qmd) or [downloade
 | Time (UK) | Contribution |
 |------|----------------|
 |10:00 | Welcome |
-|10:10 | Rithik Pramod: <br> [Beyond the miniature: An exploration of the artistic and religious dimensions of Tamil Nadu's bronze scupltures](abstracts/2024-1.qmd) |
-|10:30 | Sabikun Naher, Md. Ashraful Alam: <br> [Surface enrichment and deterioration patterns of two silver punch-marked coins from Tekttha, Naogaon, Bangladesh: An X-ray diffraction analysis](abstracts/2024-2.qmd) |
-|10:40 | Meghan Parker, Ineke Joosten, Rosalijn van IJken: <br> [Degradation of tin foils on historic Leyden jars](abstracts/2024-3.qmd) |
-|10:50 | Katherine Rothwell, Andrew R. C. Grigg, Nicola Grahamslaw, James M. Byrne: <br> [Characterising the corrosion of the SS Great Britain using handheld XRF](abstracts/2024-4.qmd) |
-|11:10 | Julia Montes-Landa, Mark Box, Caroline Archer-Parré, Ann-Marie Carey, Maciej Pawlikowski, Marcos Martinón-Torres: <br> [Reconstructing letterpress technology through the Baskerville punches: new scientific data to reverse-engineer a practically lost craft](abstracts/2024-5.qmd) |
-|11:30 | Anaïs Walsdorf: <br> [Race and civilisation in John Percy’s Metallurgy (1864)](abstracts/2024-6.qmd) |
-|11:50 | Break |
-|12:20 | Donald B. Wagner: <br> [The archaeometallurgy of iron: An introduction for students of archaeology](abstracts/2024-8.qmd) |
-|12:30 | Kutsi Akcicek, Sinan Acikgoz, Heather Viles: <br> [Comparative optical, chemical, and mechanical characterisation of 18th century and modern re-rolled wrought irons](abstracts/2024-9.qmd) |
-|12:50 | Tobias Heal, Alexandre Disser, Thomas Fischbach: <br> [Acies Ferri: Construction and provenance of Merovingian seaxes from 5th-8th century Alsace](abstracts/2024-10.qmd) |
-|13:10 | Léa Chanal, Guillaume Sarah, Florian Téreygeol: <br> [Improving our knowledge of the circulation of copper and its alloys: the case of the French Pyrenees at the end of the Middle Ages](abstracts/2024-11.qmd) |
-|13:30 | Alexandre Disser: <br> [Recent and ongoing developments of a database related to iron metallurgy](abstracts/2024-12.qmd) |
-|13:50 | Lilo Nilima: <br> [Marginalization and perception: The role of disabled in archaeometallurgical societies of Southern highlands, Tanzania.](abstracts/2024-13.qmd) |
-|14:00 | Break |
-|14:30 | Peter Northover, Vanessa Cheel: <br> [Historical Metallurgy Society Projects: Glossary of Terms and Atlas of Microstructures](abstracts/2024-15.qmd) |
-|14:50 | Frank Hulek, Yannis Bassiakos, Eleni Filippaki: <br> [Studying the different mineralizations of Laurion through a combined geological and archaeological approach](abstracts/2024-16.qmd) |
-|15:00 | Ivan Stepanov, Khaled Al-Bashaireh, Michael Brauns: <br> [The first insight into the origins of Ammonite iron through Os isotope analyses of iron arrowheads from the Late Iron Age cemetery of Tell El Mazar, Jordan](abstracts/2024-17.qmd) |
-|15:20 | Paul Rondelez, Rowan Taylor: <br> [New insights in early bloom processing](abstracts/2024-18.qmd) |
-|15:40 | Joshua Koss, Patrick Thaden: <br> [An experimental Investigation of Medieval Helmet Forging Techniques](abstracts/2024-19.qmd)|
-|16:00 | Richard Williams: <br> [Characteristics of malleable irons by the fining techniques used in their manufacture](abstracts/2024-20.qmd) |
+|10:10 | <authors>: <br> [<title>](abstracts/<abstract-nr>.qmd) |
 |16:20 | Awards announcement, farewell |
-
+-->
 
 
 ## Code of conduct
