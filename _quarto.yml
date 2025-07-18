@@ -5,7 +5,7 @@ website:
   site-url: https://archaeothommy.github.io/hms-rip-meeting/
   repo-url: https://github.com/archaeothommy/hms-rip-meeting/
   favicon: favicon.png
-  title: "![Logo HMS](https://historicalmetallurgy.org/wp-content/uploads/2020/02/Logo120.png){height=60px}"
+  title: "![Logo HMS](https://historicalmetallurgy.org/media/gwzj2xtf/logo120.png?format=webp){height=60px}"
   navbar:
     left:
       - href: index.qmd
