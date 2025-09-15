@@ -8,9 +8,9 @@ pagetitle: "HMS Research in Progress Meeting 2025"
 ::: {.callout-important icon=false} 
 
 ## Important dates
-01 September -- Abstract submission and registration opens  
-01 October -- Deadline for [abstracts](https://forms.gle/4WL3oqG4vHh1F7ti7) (there won't be any extension!)  
-15 October -- Announcement of abstracts decisions  
+15 September -- Abstract submission and registration opens  
+15 October -- Deadline for [abstracts](https://forms.gle/4WL3oqG4vHh1F7ti7) (there won't be any extension!)  
+19 October -- Announcement of abstracts decisions  
 01 November -- Announcement of programme  
 24 November -- Deadline for [registration](https://forms.gle/dzQemocN3TtX6LhF7)  
 26 November -- Reminder with meeting details sent to participants  
