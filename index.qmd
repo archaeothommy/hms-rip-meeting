@@ -8,9 +8,9 @@ pagetitle: "HMS Research in Progress Meeting 2025"
 ::: {.callout-important icon=false} 
 
 ## Important dates
-15 September -- Abstract submission and registration opens  
-15 October -- Deadline for [abstracts](https://forms.gle/4WL3oqG4vHh1F7ti7) (there won't be any extension!)  
-19 October -- Announcement of abstracts decisions  
+~~15 September -- Abstract submission and registration opens~~  
+~~15 October -- Deadline for [abstracts](https://forms.gle/4WL3oqG4vHh1F7ti7) (there won't be any extension!)~~  
+~~19 October -- Announcement of abstracts decisions~~  
 01 November -- Announcement of programme  
 24 November -- Deadline for [registration](https://forms.gle/dzQemocN3TtX6LhF7)  
 26 November -- Reminder with meeting details sent to participants  
@@ -25,14 +25,14 @@ The Research in Progress Meeting 2025 of the [Historical Metallurgy Society](htt
 <!--
 Abstracts (up to 200 words) can be submitted until 1^st^ of October via the [submission form](https://forms.gle/4WL3oqG4vHh1F7ti7). Please note that there won't be an extension of the submission deadline. 
 
-Presentations can be either 6 min or 15 min long (with time for questions added). We encourage all presenters to take full advantage of the flexibility a virtual event provides and present their project in a way that suits them and their project best. Pre-recorded contribution are possible but the presenter must be present in the meeting to answer any questions. Presentations will be scheduled in a way that considers the different presenter’s time zones. 
+Presentations can be either 6 min or 15 min long (with time for questions added). We encourage all presenters to take full advantage of the flexibility a virtual event provides and present their project in a way that suits them and their project best. Pre-recorded contribution are possible but the presenter must be present in the meeting to answer any questions. Presentations will be scheduled in a way that considers the different presenter’s time zones. -->
 
 The event is open for everyone irrespective of their HMS membership status. Participation is free of charge. Please register for the event between 1^st^ of September and 24^th^ of November using the [registration form](https://forms.gle/dzQemocN3TtX6LhF7). The link to the meeting room will be displayed once you successfully registered.  
 
-The programme and any updates will be announced here and circulated by email. General enquiries can be directed to Thomas Rose (<thomas.rose@bergbaumuseum.de>).
+The programme and any updates will be announced here and circulated by email. General inquiries can be directed to Thomas Rose (<roseth@posteo.com>).
 
 We are looking forward to seeing you in November! 
--->
+
 
 <!--
 ## Programme
@@ -68,4 +68,4 @@ If a participant engages in harassing behaviour, the event organisers may take a
 We value your attendance and want the Research in Progress Meeting 2024 to be a safe place for everybody. 
 
 ## Contact
-Please write [Thomas Rose](mailto:thomas.rose@bergbaumuseum.de) for any inquiries about the meeting. 
+Please write [Thomas Rose](<roseth@posteo.com>) for any inquiries about the meeting. 
