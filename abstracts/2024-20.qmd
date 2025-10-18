@@ -9,10 +9,14 @@ author:
     email: williams.hollies@btinternet.com
 ---
 
-There has been a great deal of work done on the characterisation of malleable irons made by the direct, bloomery, process, much less on indirect iron generally and even less on the indirect iron specifically used in Britain between 1500 and 1900.
-Five processes were used to produce such iron. Classical charcoal hearths came in two variants, known in the 18th Century as the French (or Walloon) method, and the German. The difference was that some form of iron oxide was added in the latter when the pig iron feedstock contained higher silicon levels.
-Then there were the coal/coke fired processes, firstly potting and stamping, where the pig was treated before the main process to remove silicon, then dry puddling, with an identical pre-treatment, and wet puddling, where iron oxide additions formed a part of the bath.
-The proposition is that all these processes left characteristic clues in the body of the iron, including the amount and chemical nature of the included slag and in the overall bulk composition.
+There has been a great deal of work done on the characterisation of malleable irons made by the direct, bloomery, process, much less on indirect iron generally and even less on the indirect iron specifically used in Britain between 1500 and 1900.
+
+Five processes were used to produce such iron. Classical charcoal hearths came in two variants, known in the 18th Century as the French (or Walloon) method, and the German. The difference was that some form of iron oxide was added in the latter when the pig iron feedstock contained higher silicon levels.
+
+Then there were the coal/coke fired processes, firstly potting and stamping, where the pig was treated before the main process to remove silicon, then dry puddling, with an identical pre-treatment, and wet puddling, where iron oxide additions formed a part of the bath.
+
+The proposition is that all these processes left characteristic clues in the body of the iron, including the amount and chemical nature of the included slag and in the overall bulk composition.
+
 The author is a research student at the University of Warwick where he has at his disposal (in the Advanced Materials laboratory!) a very impressive array of analytical equipment.
 
 ::: {layout="[ 20 , 85 ]"}
@@ -22,7 +26,7 @@ The author is a research student at the University of Warwick where he has at hi
 :::
 
 ::: {#column-text}
-This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 :::
 
 :::

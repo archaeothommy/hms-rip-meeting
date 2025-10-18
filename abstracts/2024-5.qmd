@@ -15,7 +15,8 @@ author:
   - name: Marcos Martinón-Torres
 ---
 
-John Baskerville (1707-75), England’s foremost printer, was the designer of the famous Baskerville typeface. His designs for roman and italic, upper- and lower-case, and numbers and symbols, were cut into small iron bars (punches) of various sizes which were then used to produce the types for the printing press. >3,000 Baskerville punches have survived until today, representing one of the most complete collections. However, very little is known about punch-making, nowadays a practically lost skill at the core of printing technology, cross-cutting black smithing, engraving and other crafts.
+John Baskerville (1707-75), England’s foremost printer, was the designer of the famous Baskerville typeface. His designs for roman and italic, upper- and lower-case, and numbers and symbols, were cut into small iron bars (punches) of various sizes which were then used to produce the types for the printing press. >3,000 Baskerville punches have survived until today, representing one of the most complete collections. However, very little is known about punch-making, nowadays a practically lost skill at the core of printing technology, cross-cutting black smithing, engraving and other crafts.
+
 As part of the AHRC-funded project “Small Performances”, and with the aim of reverse-engineering punch-making technology, we developed an ad hoc calibration to conduct surface pXRF analyses on >300 punches. These analyses served to identify distinct compositional groups that correlate with typological, macroscopic features. The groups were cross-referenced with observations under the optical microscope to understand letter cut techniques. As a result, we propose a series of hypothesis on how different metal batches interlinked with individual ways of forging and cutting these iron bars. This will ultimately allow us to better understand this technology, as well as the organisation of the workshop where these punches were manufactured in 18th century Birmingham.
 
 ::: {layout="[ 20 , 85 ]"}
@@ -25,7 +26,7 @@ As part of the AHRC-funded project “Small Performances”, and with the aim of
 :::
 
 ::: {#column-text}
-This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 :::
 
 :::

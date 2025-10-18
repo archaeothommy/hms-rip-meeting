@@ -24,7 +24,7 @@ The SS Great Britain, designed by Isambard Kingdom Brunel and the largest ship a
 :::
 
 ::: {#column-text}
-This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 :::
 
 :::

@@ -11,7 +11,8 @@ author:
   - name: Rosalijn van IJken
 ---
 
-The Rijksmuseum Boerhaave’s collection of scientific instruments contains around 60 Leyden jars. These objects are common to scientific instrument collections across the world and are notorious for developing problems with their metal foil layers, often leading to total loss of external foil. A collaborative research project between the University of Amsterdam, Rijksmuseum Boerhaave, and the Dutch Cultural Heritage Agency (RCE), aimed to investigate and develop a treatment strategy for this problem. 
+The Rijksmuseum Boerhaave’s collection of scientific instruments contains around 60 Leyden jars. These objects are common to scientific instrument collections across the world and are notorious for developing problems with their metal foil layers, often leading to total loss of external foil. A collaborative research project between the University of Amsterdam, Rijksmuseum Boerhaave, and the Dutch Cultural Heritage Agency (RCE), aimed to investigate and develop a treatment strategy for this problem. 
+
 Three representative Leyden jars were selected as case study objects, and loose foil flakes were collected from a total of 11 separate Leyden jars in the Boerhaave’s collection. Using UV irradiation, SEM-EDX, micro-XRF, and FTIR, the metals foils, original adhesives used to adhere the foils and remnants of past consolidation treatments were analysed, providing better understanding of the jars’ production, history, and the degradation processes taking place. The results from these analyses were then used to develop a suitable treatment protocol for the fragile foil layers.
 
 ::: {layout="[ 20 , 85 ]"}
@@ -21,7 +22,7 @@ Three representative Leyden jars were selected as case study objects, and loose 
 :::
 
 ::: {#column-text}
-This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 :::
 
 :::

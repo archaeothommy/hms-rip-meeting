@@ -95,7 +95,7 @@ for (i in 1:nrow(data)) {
 :::
 
 ::: {#column-text}
-This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 :::
 
 :::',

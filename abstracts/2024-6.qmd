@@ -10,7 +10,8 @@ author:
     email: anais.walsdorf@warwick.ac.uk
 ---
 
-In the Victorian ‘Age of Metallurgy’, more metals were ‘discovered’ than in any era before. With the influx of these new materials along with metal-based technological developments of the First and Second Industrial Revolutions, metallurgy became a key science and practice in British industrial imperialism. Metal-dependent industries, such as transportation, arms, and communications boomed as the British Empire expanded over the globe’s surface and subsurface, increasing extraction and production of more metal-based technologies that would optimize further exploitation of colonised land and labour. 
+In the Victorian ‘Age of Metallurgy’, more metals were ‘discovered’ than in any era before. With the influx of these new materials along with metal-based technological developments of the First and Second Industrial Revolutions, metallurgy became a key science and practice in British industrial imperialism. Metal-dependent industries, such as transportation, arms, and communications boomed as the British Empire expanded over the globe’s surface and subsurface, increasing extraction and production of more metal-based technologies that would optimize further exploitation of colonised land and labour. 
+
 In his 1886 President’s address to the Iron and Steel Institute, metallurgist John Percy proclaimed that “the history of the metallurgic arts is involved in the history of the civilisation of man”.  Using this quote and Percy’s seminal text Metallurgy: Iron and Steel (1864) as a point of departure, I will be investigating Percy’s work on coal, iron, and civilisation and its material consequences in the context of British industrial imperialism. This work in progress investigates the interweaving of racialised ethnological beliefs about civilisation with the creation of metallurgical knowledge as applied to late 19th century British hierarchies of iron smelting technologies with a particular focus on India.
 
 ::: {layout="[ 20 , 85 ]"}
@@ -20,7 +21,7 @@ In his 1886 President’s address to the Iron and Steel Institute, metallurgist 
 :::
 
 ::: {#column-text}
-This work are licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 :::
 
 :::
