@@ -19,7 +19,7 @@ pagetitle: "HMS Research in Progress Meeting 2025"
 
 ::: 
 
-## Call for Papers
+## Announcement <!-- Call for Papers-->
 The Research in Progress Meeting 2025 of the [Historical Metallurgy Society](https://historicalmetallurgy.org/) will take place online on Friday, 28^th^ of November. It provides a forum for everyone working on topics related to ancient and historical metallurgical practices, the past use of metal objects, and related fields. We are keen to learn more about your ongoing or recently finished projects! The meeting aims to foster links between the different disciplines and geographical regions. Therefore, we particularly encourage submissions from early career researchers, contract archaeologists/conservators, and colleagues from outside Europe. There will be an HMS prize for the best student presentation. 
 
 <!--
