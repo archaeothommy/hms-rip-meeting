@@ -1,0 +1,27 @@
+---
+title: "The preservation and conservation of Phopo hill, an archaeometallurgical site in Rumphi, Malawi"
+date: "2025"
+date-format: "YYYY"
+categories: [conservation, preservation]
+author: 
+  - name: Silvester PM Baba
+    orcid: 0009-0001-8832-4207
+    corresponding: true
+    email: silverpagonachimkandawirebaba@gmail.com
+  - name: Mwayi Woyamba Lusaka
+    orcid: 0009-0001-8832-4207
+---
+
+Phopo Hill is a significant archaeometallurgical site associated with Early Stone Age societies, containing a rich material record that includes artifacts, metals, iron slag, and pottery. However, the preservation of this important cultural heritage is under severe threat. The site is increasingly vulnerable to the damaging effects of climate change and accelerated erosion. These environmental challenges are actively degrading the archaeological deposits, risking the irreversible loss of invaluable data concerning early human technological and cultural development. Therefore,  conservation and preservation strategies need to be employed to mitigate these impacts and ensure the long-term protection and study of the Phopo Hill site.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

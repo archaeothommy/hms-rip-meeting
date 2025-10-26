@@ -1,0 +1,31 @@
+---
+title: "Metal production in the 2nd millennium BC Eurasian Steppe: An update of research"
+date: "2025"
+date-format: "YYYY"
+categories: [Eurasian Steppe, Bronze Age, metal production, smelting recipes]
+author: 
+  - name: Ilaria Calgaro
+    orcid: 0000-0002-4536-4460
+    corresponding: true
+    email: ilaria.calgaro.19@ucl.ac.uk
+---
+
+During the 2nd millennium BC, the Eurasian Steppe witnessed profound transformations in metal production and circulation, reflecting the rise of socio-economic networks and technological specialisation among semi-pastoralist communities. While the movement of copper alloys and finished artefacts across this region is well documented, growing attention is now directed towards the choices underpinning primary production and the organisation of metallurgical practices.
+
+We present new data from key metalmaking contexts spanning the Late to Final Bronze Age in Central and East Kazakhstan. Each site offers distinct perspectives on metallurgical traditions and production modes, highlighting both shared technologies and regional variation in smelting recipes and alloying strategies. Communities of metalsmiths processed similar ores but developed different approaches shaped by local resources, cultural preferences, and shifting exchange networks.
+
+Archaeometallurgical analyses of ores, slags, and technical ceramics reveal how knowledge was created, adapted, and transmitted across the Eurasian Steppe, underscoring it as a dynamic arena of innovation during the Bronze Age.
+
+The ERC DREAM aims to advance the current understanding of metalmaking technology in the Eurasian Steppe, and to situate the region as a central hub of technological and social transformation during the Bronze Age.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

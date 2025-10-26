@@ -1,0 +1,26 @@
+---
+title: "British Gunfounding after the Weald"
+date: "2025"
+date-format: "YYYY"
+categories: [ordnance, gunfounding, Weald, coke blast furnaces]
+author: 
+  - name: Peter King
+    orcid: 0000-0001-5310-9681
+    corresponding: true
+    email: peterkingiron@blueyonder.co.uk
+---
+
+Until the 1750s, almost all cannon made in Britian were cast from charcoal blast furnaces in the Weald in southeast England.  During the Seven Years’ War and after, coke blast furnaces began to be used, but guns made by the Carron Company in Scotland were so prone to bursting that they were withdrawn from service.  In 1774, Anthony Bacon on behalf of John Wilkinson proposed casting cannon solid and boring them, rather than casting them with a core.  Tests found that cannon cast solid were better, so that the Ordnance Board ordered all cannon to be cast solid.  Wealden ironmasters were apparently unwilling to invest in the boring mills needed for this, so that Wealden gunfounding largely ceased.  After the War of American Independence, Samuel Walker & Co of Rotherham became the Board’s sole supplier, in part recycling old cannon.  They were joined in the 1790s by other suppliers, including the Carron Company, Clyde Ironworks, and Alexander Brodie of Calcutts in Shropshire.  However, Gordon and Stanley, probably representing John Wilkinson’s Bradley Works had many guns failing proof and gave the business up.  Unfortunately, after 1797 the surviving records are less penetrable.    
+
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

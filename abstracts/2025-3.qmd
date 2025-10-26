@@ -1,0 +1,27 @@
+---
+title: "Metallurgy and Firepower: A Technological Overvie of Iron Cannonry in Medieval Bengal"
+date: "2025"
+date-format: "YYYY"
+categories: [artillery technology, iron cannonry, Medieval Bengal, metallurgy]
+author: 
+  - name: Sabikun Naher
+    orcid: 0000-0001-9646-4990
+    corresponding: true
+    email: sabikun_shethi@juniv.edu
+  - name: Pranab K. Chattopadhyay
+  - name: Jesmin Nahar Jhumur
+---
+
+The iron cannonry of medieval Bengal marked a transformative phase in regional military and technological history. With some specific examples of iron cannon, this paper offers a technological overview of iron cannonry within broader contexts of metallurgy, warfare, and regional innovation. Cannons such as the Jahankosha of Murshidabad, the Bachhawali of Hazarduari, and Dal Mardan of Bishnupur illustrate the mastery of forge-welding techniques. These cannons were made by hammering and welding multiple iron blooms and reinforced with concentric rings to create massive yet resilient artillery pieces. Archaeometric examination of the Dal Mardan through SEM and XRD has brought to light slag inclusions, fayalite phases, and traces of high phosphorus. These features point towards a direct-reduction process of sponge iron and, at the same time, explain the cannon’s unusual resistance to corrosion. Other examples, like the Kale Khan/Kale Jamjam and the Bibi Mariam of Dhaka, attributed to the famed Janardan Karmakar under Mughal patronage, demonstrate the ability of Bengal’s workshops to produce artillery on an extraordinary scale. However, the comparatively smaller-sized, forge-welded guns now displayed in the Tripura State Museum offer a different perspective tailored for mobility and riverine warfare, reflecting local needs and contexts.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

@@ -1,0 +1,24 @@
+---
+title: "Metallographic and Neutron Analysis of EBA metalworking traditions"
+date: "2025"
+date-format: "YYYY"
+categories: [metallography, neutron diffraction]
+author: 
+  - name: John Strachan
+    corresponding: true
+    email: johnstrachan2001@gmail.com
+---
+
+Technological choice, decision making, and craft traditions have been well documented by analysing prehistoric metalwork using metallography, and more recently Neutron probing. My current research aims to incorporate the scientific data obtained from studying Chalcolithic and Early Bronze Age axes and halberds using metallography and Neutron analysis into a theoretical craft-focused perspective. Reflexive experimental bronze smithing will be used to try and replicate data from artefacts, and thereby reproduce a non-scientific, inductive chaine operatoire based on sense experience. It is hoped that this can understand the cognitive and embodied elements of metalworking skill and variation within the archaeological record.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

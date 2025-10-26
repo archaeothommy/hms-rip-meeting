@@ -2,20 +2,20 @@
 
 # import abstract data and clean-up table
 
-library(googlesheets4)
+#library(googlesheets4)
 library(readxl)
 
-date <- "2024" # year of workshop
+date <- "2025" # year of workshop
 
 max_author <- 6 # maximum number of authors in table
 
-data <- read_excel("../2024/Abstracts.xlsx", range = "D1:AQ23", col_types = "text")
+data <- read_excel("../2025/Abstracts.xlsx", range = "D1:AO21", col_types = "text")
 
 data <- subset(
   data, select = c(
     "Order",
-    "Email Address", 
-    "Title of abstract", 
+    "Mail", 
+    "Title", 
     "Keywords", 
     "Abstract", 
     grep("^Full", names(data), value = TRUE), 
@@ -26,7 +26,7 @@ data <- subset(
   subset = !is.na(Abstract)
 )
 
-names(data) <- c("Order", "Mail", "Title", "Keywords", "Abstract", paste0("Author_", 1:max_author), paste0("Affiliation_", 1:max_author), paste0("ORCID_", 1:max_author), paste0("Institution_", 1:5))
+names(data) <- c("Order", "Mail", "Title", "Keywords", "Abstract", paste0("Author_", 1:max_author), paste0("Affiliation_", 1:max_author), paste0("ORCID_", 1:max_author), paste0("Institution_", 1:3))
 
 data$Keywords <- gsub(";", ",", data$Keywords)
 

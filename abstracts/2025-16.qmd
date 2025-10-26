@@ -1,0 +1,25 @@
+---
+title: "The Archaeology of Ironworking Landscape: The Case Study of Brdy Mountains, the Czech Republic"
+date: "2025"
+date-format: "YYYY"
+categories: [landscape archaeology, mining, charcoal burning, ironworks]
+author: 
+  - name: Tomáš Kroupa
+    orcid: 0000-0002-5324-1735
+    corresponding: true
+    email: tkroupa@ff.zcu.cz
+---
+
+Historical ironworking played a crucial role in the history of the Brdy region, which is located on the border of central and western Bohemia, the Czech Republic. Iron production has a long tradition in the area, spanning from the Middle Ages up until the 19th century, during which it was the main Bohemian ironworking region. The contribution summarises the current results of a landscape archaeology oriented research of the northwestern part of Brdy region. Using common methods of non-destructive archaeology, such as LiDAR data prospection, a great number of ironworking-related sites were identified. These include a great number of charcoal-burning platforms and mining sites.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

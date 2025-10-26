@@ -1,0 +1,35 @@
+---
+title: "First insights into the origin of iron in eastern Cilicia during the Iron Age, using osmium isotope and trace element analysis"
+date: "2025"
+date-format: "YYYY"
+categories: [osmium isotopes, Kinet Höyük, Iron Age, Anatolia]
+author: 
+  - name: Ivan Stepanov
+    orcid: 0000-0002-7380-921X
+    corresponding: true
+    email: ivan.stepanov@ceza.de
+  - name: Hüseyin Öztürk
+    orcid: 0000-0001-7290-1279
+  - name: Michael Brauns
+    orcid: 0009-0000-5779-4866
+  - name: Ernst Pernicka
+    orcid: 0000-0003-4746-9239
+  - name: Nurullah Hanilçi
+    orcid: 0000-0002-7720-1551
+  - name: Ümit Güder
+    orcid: 0000-0002-4156-2339
+---
+
+The study focuses on the provenance investigation of several iron smithing slag and iron ores samples from the Iron Age phases (c. 750–575 BC) at Kinet Höyük, a major trading port on the coast of eastern Cilicia (Turkiye). Additionally, we analyse 18 ore samples from major iron deposits in the eastern Taurus region. The applied techniques include optical microscopy, XRD, XRF, analyses of siderophile and chalcophile elements by (ICP-MS), and Os-Re isotopy. The results allow the exclusion of the analysed iron ore samples from central Anatolia as a source of the iron processed at Kinet Höyük. The archaeological samples of slags and one of the archaeological ore samples fragments are characterised by low radiogenic 187Os/188Os ratios, high Os concentrations (411–15057 pg/g), elevated contents of Ni, Cr, As, and low contents of Co, V, Sb, and W. This suggests a local origin for the forged iron, the source of which should be sought in a geological environment associated with ultrabasic rocks in the ophiolitic suture zones. From the methodological perspective, the results allow stressing the usefulness of investigation of iron smithing remains by osmium isotopes for drawing connections blacksmithing and iron smelting workshops.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

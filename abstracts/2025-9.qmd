@@ -1,0 +1,26 @@
+---
+title: "Iranian Copper Alloys Archaeometallurgy, Corrosion, and Cultural Heritage Management"
+date: "2025"
+date-format: "YYYY"
+categories: [Iran, archaeometallurgy, copper alloys, corrosion, cultural heritage management]
+author: 
+  - name: Omid Oudbashi
+    orcid: 0000-0002-7984-8199
+    corresponding: true
+    email: omid.oudbashi@gu.se
+  - name: Russell Wanhill
+---
+
+Corrosion of archaeological metals may be complex owing to the varying influences of the burial environments, alloy compositions, and microstructures, and internal (residual) and external (burial) stresses imposed on artifacts. This book surveys the corrosion-related metallurgy and long-term corrosion of archaeological copper alloy artifacts excavated from aerobic soil environments in Iran, and also the remedial and restoration issues, including conservation, as contributions to the cultural heritage of Iran. The final step is cultural heritage management (CHM), whose main objectives are the classification and understanding of deterioration risks, i.e., further corrosion, and avoiding them. The risks include excavation and displacement from the original burial sites and insufficiently controlled display and storage environments. In addition, the book discusses the scientific methods employed in corrosion assessment and diagnosis, such as metallography, surface analysis, and corrosion product characterization. The interdisciplinary approach adopted offers insights valuable not only for archaeologists but also for conservation scientists and materials engineers.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

@@ -11,7 +11,7 @@ pagetitle: "HMS Research in Progress Meeting 2025"
 ~~15 September -- Abstract submission and registration opens~~  
 ~~15 October -- Deadline for [abstracts](https://forms.gle/4WL3oqG4vHh1F7ti7) (there won't be any extension!)~~  
 ~~19 October -- Announcement of abstracts decisions~~  
-01 November -- Announcement of programme  
+~~01 November -- Announcement of programme~~  
 24 November -- Deadline for [registration](https://forms.gle/dzQemocN3TtX6LhF7)  
 26 November -- Reminder with meeting details sent to participants  
 28 November -- Research in Progress Meeting  
@@ -29,12 +29,10 @@ Presentations can be either 6 min or 15 min long (with time for questions added)
 
 The event is open for everyone irrespective of their HMS membership status. Participation is free of charge. Please register for the event between 1^st^ of September and 24^th^ of November using the [registration form](https://forms.gle/dzQemocN3TtX6LhF7). The link to the meeting room will be displayed once you successfully registered.  
 
-The programme and any updates will be announced here and circulated by email. General inquiries can be directed to Thomas Rose (<roseth@posteo.com>).
+<!-- The programme and any updates will be announced here and circulated by email. --> Please contact Thomas Rose (<roseth@posteo.com>) for any questions and general inquiries. 
 
 We are looking forward to seeing you in November! 
 
-
-<!--
 ## Programme
 
 [Time zone conversions:  
@@ -42,19 +40,34 @@ Eastern Time (USA) = UK -5
 Central Europe = UK +1  
 India = UK +5:30  
 Japan = UK +9  
-You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20231124T100000&p1=136)]{.aside}
+You can convert to your local time zone with, e.g., [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20251128T100000&p1=136)]{.aside}
 
 Presentations will be 15 min + 5 min discussion or 6 min + 4 min discussion.  
 
-Abstracts can be found in the [abstract repository](abstracts.qmd) or [downloaded as pdf](assets/HMS-RiP2024_Abstracts.pdf). 
+Abstracts can be found in the [abstract repository](abstracts.qmd) or [downloaded as pdf](assets/HMS-RiP2025_Abstracts.pdf). 
 
 | Time (UK) | Contribution |
 |------|----------------|
 |10:00 | Welcome |
-|10:10 | <authors>: <br> [<title>](abstracts/<abstract-nr>.qmd) |
-|16:20 | Awards announcement, farewell |
--->
-
+|10:10 | Sébastien Clouet: <br> [Bồng Miêu Gold Mine: Technological evolution and colonial adaptation in Southeast Asia](abstracts/2025-1.qmd) |
+|10:30 | Skand Manjul, Arvin Manjul & Sanjay Kr Manjul: <br> [Weapons, Rituals, and the Making of a Warrior Society? A Use-Wear Assessment of Swords and Associated Artefacts with Weapon Function and Social Identity of Sinauli](abstracts/2025-2.qmd) | 
+|10:50 | Sabikun Naher, Pranab K. Chattopadhyay & Jesmin Nahar Jhumur: <br> [Metallurgy and Firepower: A Technological Overvie of Iron Cannonry in Medieval Bengal](abstracts/2025-3.qmd) | 
+|11:00 | Peter King: <br> [British Gunfounding after the Weald](abstracts/2025-4.qmd) | 
+|11:20 | Rowan Taylor: <br> [On the constructional detail of the type 2 mediaeval anchor from Ladby, Denmark](abstracts/2025-5.qmd) | 
+|11:40 | *Break* |
+|12:10 | Nayanathara S & Suhash Ranjan Dey: <br> [Exploring Ancient Indian Panchadhatu and Ashtadhatu-Making Traditions as Prototypes of Modern High Entropy Alloys](abstracts/2025-7.qmd) | 
+|12:30 | Kutsi Akcicek, Jiaxu Zuo, Heather Viles & Sinan Acikgoz: <br> [Investigating Failure Mechanisms in Archaeological and Modern Wrought Irons ](abstracts/2025-8.qmd) | 
+|12:50 | Omid Oudbashi & Russell Wanhill: <br> [Iranian Copper Alloys Archaeometallurgy, Corrosion, and Cultural Heritage Management ](abstracts/2025-9.qmd) | 
+|13:10 | John Strachan: <br> [Metallographic and Neutron Analysis of EBA metalworking traditions](abstracts/2025-10.qmd)
+|13:20 | Silvester PM Baba & Mwayi Woyamba Lusaka: <br> [The preservation and conservation of Phopo hill, an archaeometallurgical site in Rumphi, Malawi ](abstracts/2025-11.qmd) | 
+|13:40 | Ivan Stepanov, Hüseyin Öztürk, Michael Brauns, Ernst Pernicka, Nurullah Hanilçi & Ümit Güder: <br> [First insights into the origin of iron in eastern Cilicia during the Iron Age, using osmium isotope and trace element analysis](abstracts/2025-12.qmd) |  
+|14:00 | *Break* | 
+|14:40 | Hailay Atsbha: <br> [The Spatial Distribution of Iron slag Evidence Sites in Northern Ethiopia (Tigray)](abstracts/2025-14.qmd) | 
+|15:00 | Michael Lebsak, Michal Hlavica & Roman Mikulec: <br> [Potential of Technical Ceramics for Studying the Iron Metallurgical Chaîne Opératoire: Selected Medieval Case Studies from Southern Czech Republic](abstracts/2025-15.qmd) | 
+|15:20 | Tomáš Kroupa: <br> [The Archaeology of Ironworking Landscape: The Case Study of Brdy Mountains, the Czech Republic](abstracts/2025-16.qmd) |  
+|15:40 | Ilaria Calgaro: <br> [Metal production in the 2nd millennium BC Eurasian Steppe: An update of research](abstracts/2025-17.qmd) | 
+|16:00 | Ryan Edward Peterson: <br> [Paths of Production: Spatial and Experimental Investigations of Native Copper Working In North America’s Native Copper Industry](abstracts/2025-18.qmd) | 
+|16:20 | Awards announcement, closing|
 
 ## Code of conduct
 All participants at the Research in Progress Meetings agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to providing an inclusive, respectful, safe, friendly, and welcoming online meeting for all participants.

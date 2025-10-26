@@ -1,0 +1,31 @@
+---
+title: "Potential of Technical Ceramics for Studying the Iron Metallurgical Chaîne Opératoire: Selected Medieval Case Studies from Southern Czech Republic"
+date: "2025"
+date-format: "YYYY"
+categories: [technical ceramics, iron, archaeometallurgy, medieval, tuyeres, iron smelting, blacksmithing]
+author: 
+  - name: Michael Lebsak
+    orcid: 0000-0003-4836-6071
+    corresponding: true
+    email: lebsak@arub.cz
+  - name: Michal Hlavica
+    orcid: 0000-0002-6850-9933
+  - name: Roman Mikulec
+    orcid: 0000-0001-5268-7404
+---
+
+In Pre- and Protohistory, the selection and use of technical ceramics were mandatory for the success of all pyrometallurgical processes connected with iron and were therefore not arbitrary. Drawing on selected Medieval case from the southern Czech Republic covering different production contexts (rural and proto-urban), we show that interdisciplinary analyses (macroscopic, pXRF, ED-XRF, XRD, SEM-EDS) of ceramic debris such as tuyeres, furnace parts, and hearth fragments in relation with associated pyrometallurgical features and slags yield crucial insights into workshop organization and resource-distribution networks. In doing so, we address the entire metallurgical chain, from iron smelting to subsequent processing of iron (blacksmithing).
+ 
+
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

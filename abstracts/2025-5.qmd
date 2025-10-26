@@ -1,0 +1,24 @@
+---
+title: "On the constructional detail of the type 2 mediaeval anchor from Ladby, Denmark"
+date: "2025"
+date-format: "YYYY"
+categories: [anchor, early-medieval, archaeometallurgy, industry, iron working, forge, longship, seafaring]
+author: 
+  - name: Rowan Taylor
+    corresponding: true
+    email: rowan_o_c@yahoo.fr
+---
+
+The type 2 early Medieval anchor from Ladby, Denmark, was discovered as part of an elaborate ship burial dated to the 10th century. Standing at 1.2 metres tall and 0.8 metres wide, analysis of the constructional detail of the anchor reveals a composite object of complex fabrication, built from no fewer than 60 separate parts. Furthermore, a laminate construction suggests a sophisticated understanding of the mechanical properties and limitations of the available ferrous materials of the period.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

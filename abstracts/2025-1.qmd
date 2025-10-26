@@ -1,0 +1,27 @@
+---
+title: "Bồng Miêu Gold Mine: Technological evolution and colonial adaptation in Southeast Asia"
+date: "2025"
+date-format: "YYYY"
+categories: [colonial mining, gold, Southeast Asia, technological adaptation]
+author: 
+  - name: Sébastien Clouet
+    orcid: 0009-0002-7924-6793
+    corresponding: true
+    email: sebastienolivier.clouet@gmail.com
+---
+
+The Bồng Miêu gold mine in Quảng Nam province, central Vietnam, provides a rare case study of the long-term history of gold exploitation in mainland Southeast Asia. Archaeological and historical evidence suggest that extraction began during the Protohistoric period through alluvial panning, later expanding to small-scale underground mining. These practices likely continued under the kingdom of Champā and the Empire of Annam, highlighting the enduring economic and political significance of gold in the region.
+In the late 19th century, Bồng Miêu became the first modern gold mine in French Indochina. Established in 1896, it incorporated advanced infrastructure, including an aerial cable system, and cyanidation processing facilities. Between 1900 and 1918, over 250,000 tons of ore were extracted, yielding more than one ton of gold, though recovery rates remained limited. A major modernization program in the early 1930s improved recovery efficiency from 60% to 90%, with peak annual production reaching 258kg in 1935.
+This paper examines how the Bồng Miêu gold mine reflects the evolution and local adaptation of mining and metallurgical practices in a colonial context, marked by a long sequence of occupation and a shift from local exploitation to industrial activity.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

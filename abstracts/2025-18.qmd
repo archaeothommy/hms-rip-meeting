@@ -1,0 +1,24 @@
+---
+title: "Paths of Production: Spatial and Experimental Investigations of Native Copper Working In North America’s Native Copper Industry"
+date: "2025"
+date-format: "YYYY"
+categories: [native copper, Great Lakes, Archaic, production]
+author: 
+  - name: Ryan Edward Peterson
+    corresponding: true
+    email: 15rpeterson@gmail.com
+---
+
+This presentation explores native copper production in North America's Native Copper Industry, with a focus on the Archaic period (ca. 6000–1000 BCE) and the copper-rich region of Isle Royale. Drawing on both archaeological evidence and experimental archaeology, the research aims to reconstruct stages of copper production—from raw material acquisition to artifact manufacture. Fieldwork includes analysis of copper artifacts, hammerstones, and production debris from multiple Archaic sites at varying distances from copper lodes. These data are compared to results from experimental replication of traditional cold-hammering, annealing, and shaping techniques using native copper sourced from the region. Patterns observed suggest a spatial relationship between site function and proximity to copper sources, indicating that copper was often worked near its source, with finished or partially finished tools transported to distant habitation sites. This integrated approach provides new insights into the organization of early metallurgical practices in the Great Lakes region and enhances understanding of the social and technological complexity of pre-contact Indigenous copper use. The findings also contribute to broader discussions of early metalworking in Hunter-Gather societies and demonstrate the value of combining experimental archaeology with regional artifact analysis.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

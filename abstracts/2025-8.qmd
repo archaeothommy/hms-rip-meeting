@@ -1,0 +1,27 @@
+---
+title: "Investigating Failure Mechanisms in Archaeological and Modern Wrought Irons"
+date: "2025"
+date-format: "YYYY"
+categories: [wrought iron, Salisbury Cathedral, Blenheim Palace, acoustic emission, tensile testing, digital image correlation]
+author: 
+  - name: Kutsi Akcicek
+    corresponding: true
+    email: kebl7186@ox.ac.uk
+  - name: Jiaxu Zuo
+  - name: Heather Viles
+  - name: Sinan Acikgoz
+---
+
+Architectural wrought irons from the 14th (Salisbury Cathedral), 18th (Blenheim Palace), and 21st (Topp & Co.) centuries are subject to optical, chemical, and mechanical characterisation. To investigate micro-mechanical failure mechanisms, tensile testing is undertaken in tandem to acoustic emission (AE) monitoring and digital image correlation measurements. The modern specimen exhibited expected ductile failure, with post-yield behaviour characterised by plastic deformations and uniform strain distributions. In contrast, the archaeological irons exhibited a defect-driven failure, evidenced by the emergence of multiple surface cracks, often on one face of the sample, and a high number of post-yield AE hits. Multivariate analysis and clustering of the AE signals using principal component analysis and DBSCAN identified three major failure mechanisms, differentiated by the signal’s peak frequency. These are the plastic deformation of iron, debonding between iron and slag and within different phases and microstructures of the iron matrix, and inclusion cracking. The latter two were supported by observations from fractography. A small number of high frequency events are identified and provisionally attributed to iron matrix cracking. This research ultimately provides deeper insight into the micro-mechanical failure mechanisms in wrought irons.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::

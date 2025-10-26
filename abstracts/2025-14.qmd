@@ -1,0 +1,24 @@
+---
+title: "The Spatial Distribution of Iron slag Evidence Sites in Northern Ethiopia (Tigray)"
+date: "2025"
+date-format: "YYYY"
+categories: [Ethno history,  rock-hewn churches, metallurgy,  iron production]
+author: 
+  - name: Hailay Atsbha
+    corresponding: true
+    email: hailay.2005a@gmail.com
+---
+
+Archaeometallurigical investigations on the sites of Tigray with the evidences of iron slags made possible in reconstructing evidence of iron smelting societies. The central aim of this paper is to explore and locate the ancient metallurgical sites and to synthesize the tradition of iron smelting in the region.  It is a recent phenomenon and iron smelting in Tigray is currently unrecognizable but, to profuse the tradition of the past community locating the distribution of the evidence of slag sites is the primary task. Thus, ethno historic interviews, field survey and oral traditions were used to interpret the data qualitatively in a descriptive way. Survey and preliminary geological investigation indicates that the ores in the nearby areas of the sites may have been the sources for ancient iron productions. Preliminary analysis of potsherds and radiocarbon dating (in some sites) indicated that the sites were possibly settlement sites. The region particularly Eastern part of Tigray has significant metallurgical sites history which is supported by the presence of many rock hewn churches which could indicate the beginning of iron ore production was mainly during the Aksumite times.
+
+::: {layout="[ 20 , 85 ]"}
+
+::: {#column-image}
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png){width=88}](http://creativecommons.org/licenses/by/4.0/)
+:::
+
+::: {#column-text}
+This work is licensed under a<br>[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+:::
