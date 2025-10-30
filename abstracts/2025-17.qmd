@@ -10,12 +10,12 @@ author:
     email: ilaria.calgaro.19@ucl.ac.uk
 ---
 
-During the 2nd millennium BC, the Eurasian Steppe witnessed profound transformations in metal production and circulation, reflecting the rise of socio-economic networks and technological specialisation among semi-pastoralist communities. While the movement of copper alloys and finished artefacts across this region is well documented, growing attention is now directed towards the choices underpinning primary production and the organisation of metallurgical practices.
-
-We present new data from key metalmaking contexts spanning the Late to Final Bronze Age in Central and East Kazakhstan. Each site offers distinct perspectives on metallurgical traditions and production modes, highlighting both shared technologies and regional variation in smelting recipes and alloying strategies. Communities of metalsmiths processed similar ores but developed different approaches shaped by local resources, cultural preferences, and shifting exchange networks.
-
-Archaeometallurgical analyses of ores, slags, and technical ceramics reveal how knowledge was created, adapted, and transmitted across the Eurasian Steppe, underscoring it as a dynamic arena of innovation during the Bronze Age.
-
+During the 2nd millennium BC, the Eurasian Steppe witnessed profound transformations in metal production and circulation, reflecting the rise of socio-economic networks and technological specialisation among semi-pastoralist communities. While the movement of copper alloys and finished artefacts across this region is well documented, growing attention is now directed towards the choices underpinning primary production and the organisation of metallurgical practices.
+
+We present new data from key metalmaking contexts spanning the Late to Final Bronze Age in Central and East Kazakhstan. Each site offers distinct perspectives on metallurgical traditions and production modes, highlighting both shared technologies and regional variation in smelting recipes and alloying strategies. Communities of metalsmiths processed similar ores but developed different approaches shaped by local resources, cultural preferences, and shifting exchange networks.
+
+Archaeometallurgical analyses of ores, slags, and technical ceramics reveal how knowledge was created, adapted, and transmitted across the Eurasian Steppe, underscoring it as a dynamic arena of innovation during the Bronze Age.
+
 The ERC DREAM aims to advance the current understanding of metalmaking technology in the Eurasian Steppe, and to situate the region as a central hub of technological and social transformation during the Bronze Age.
 
 ::: {layout="[ 20 , 85 ]"}

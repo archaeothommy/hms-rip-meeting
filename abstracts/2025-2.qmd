@@ -12,9 +12,9 @@ author:
   - name: Sanjay Kr Manjul
 ---
 
-The recent excavations at Sinauli, Uttar Pradesh, have provided significant insights into the cultural and technological development of the late Protohistoric period in the Indian subcontinent. Among the most remarkable discoveries are the copper-decorated chariots and an assemblage of copper weapons found alongside Ocher Coloured Pottery (OCP). These finds invite renewed attention to the long-debated Copper Hoard tradition, whose artefacts are often discovered as isolated chance finds with little contextual information.
-This study analyses the material culture of Sinauli through a detailed examination of weapon morphology and surface wear patterns, supported by preliminary metallurgical and elemental observations. By exploring the physical traces of use and the contextual associations of these artefacts, the research aims to better understand their technological sophistication and potential social meanings. The work also considers the broader implications of such evidence for interpreting martial identities, ritual practices, and social organisation within early metal-using communities.
+The recent excavations at Sinauli, Uttar Pradesh, have provided significant insights into the cultural and technological development of the late Protohistoric period in the Indian subcontinent. Among the most remarkable discoveries are the copper-decorated chariots and an assemblage of copper weapons found alongside Ocher Coloured Pottery (OCP). These finds invite renewed attention to the long-debated Copper Hoard tradition, whose artefacts are often discovered as isolated chance finds with little contextual information.
 
+This study analyses the material culture of Sinauli through a detailed examination of weapon morphology and surface wear patterns, supported by preliminary metallurgical and elemental observations. By exploring the physical traces of use and the contextual associations of these artefacts, the research aims to better understand their technological sophistication and potential social meanings. The work also considers the broader implications of such evidence for interpreting martial identities, ritual practices, and social organisation within early metal-using communities.
 
 ::: {layout="[ 20 , 85 ]"}
 

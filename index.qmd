@@ -63,7 +63,7 @@ Abstracts can be found in the [abstract repository](abstracts.qmd) or [downloade
 |13:40 | Ivan Stepanov, Hüseyin Öztürk, Michael Brauns, Ernst Pernicka, Nurullah Hanilçi & Ümit Güder: <br> [First insights into the origin of iron in eastern Cilicia during the Iron Age, using osmium isotope and trace element analysis](abstracts/2025-12.qmd) |  
 |14:00 | *Break* | 
 |14:40 | Hailay Atsbha: <br> [The Spatial Distribution of Iron slag Evidence Sites in Northern Ethiopia (Tigray)](abstracts/2025-14.qmd) | 
-|15:00 | Michael Lebsak, Michal Hlavica & Roman Mikulec: <br> [Potential of Technical Ceramics for Studying the Iron Metallurgical Chaîne Opératoire: Selected Medieval Case Studies from Southern Czech Republic](abstracts/2025-15.qmd) | 
+|15:00 | Michael Lebsak, Michal Hlavica & Roman Mikulec: <br> [Potential of Technical Ceramics for Studying the Iron Metallurgical Chaîne Opératoire: Selected Medieval Case Studies from southern Moravia, Czech Republic](abstracts/2025-15.qmd) | 
 |15:20 | Tomáš Kroupa: <br> [The Archaeology of Ironworking Landscape: The Case Study of Brdy Mountains, the Czech Republic](abstracts/2025-16.qmd) |  
 |15:40 | Ilaria Calgaro: <br> [Metal production in the 2nd millennium BC Eurasian Steppe: An update of research](abstracts/2025-17.qmd) | 
 |16:00 | Ryan Edward Peterson: <br> [Paths of Production: Spatial and Experimental Investigations of Native Copper Working In North America’s Native Copper Industry](abstracts/2025-18.qmd) | 
