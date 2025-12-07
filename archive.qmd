@@ -2,6 +2,29 @@
 title: "Meeting Archive"
 ---
 
+## Meeting 2025
+Date: 28 November 2025  
+Participants: ca. 40 participants constantly in Zoom meeting  
+Student award winner: Kutsi Akcicek
+
+### Presentations
+* Sébastien Clouet: [Bồng Miêu Gold Mine: Technological evolution and colonial adaptation in Southeast Asia](abstracts/2025-1.qmd)
+* Skand Manjul, Arvin Manjul & Sanjay Kr Manjul: [Weapons, Rituals, and the Making of a Warrior Society? A Use-Wear Assessment of Swords and Associated Artefacts with Weapon Function and Social Identity of Sinauli](abstracts/2025-2.qmd)
+* Sabikun Naher, Pranab K. Chattopadhyay & Jesmin Nahar Jhumur: [Metallurgy and Firepower: A Technological Overvie of Iron Cannonry in Medieval Bengal](abstracts/2025-3.qmd)
+* Peter King: [British Gunfounding after the Weald](abstracts/2025-4.qmd)
+* Rowan Taylor: [On the constructional detail of the type 2 mediaeval anchor from Ladby, Denmark](abstracts/2025-5.qmd)
+* Nayanathara S & Suhash Ranjan Dey: [Exploring Ancient Indian Panchadhatu and Ashtadhatu-Making Traditions as Prototypes of Modern High Entropy Alloys](abstracts/2025-7.qmd)
+* Kutsi Akcicek, Jiaxu Zuo, Heather Viles & Sinan Acikgoz: [Investigating Failure Mechanisms in Archaeological and Modern Wrought Irons ](abstracts/2025-8.qmd)
+* Omid Oudbashi & Russell Wanhill: [Iranian Copper Alloys Archaeometallurgy, Corrosion, and Cultural Heritage Management ](abstracts/2025-9.qmd)
+* John Strachan: [Metallographic and Neutron Analysis of EBA metalworking traditions](abstracts/2025-10.qmd)
+* Silvester PM Baba & Mwayi Woyamba Lusaka: [The preservation and conservation of Phopo hill, an archaeometallurgical site in Rumphi, Malawi ](abstracts/2025-11.qmd)
+* Ilaria Calgaro: [Metal production in the 2nd millennium BC Eurasian Steppe: An update of research](abstracts/2025-17.qmd)
+* Hailay Atsbha: [The Spatial Distribution of Iron slag Evidence Sites in Northern Ethiopia (Tigray)](abstracts/2025-14.qmd)
+* Tomáš Kroupa: [The Archaeology of Ironworking Landscape: The Case Study of Brdy Mountains, the Czech Republic](abstracts/2025-16.qmd)
+* Ivan Stepanov, Hüseyin Öztürk, Michael Brauns, Ernst Pernicka, Nurullah Hanilçi & Ümit Güder: [First insights into the origin of iron in eastern Cilicia during the Iron Age, using osmium isotope and trace element analysis](abstracts/2025-12.qmd)
+* Ryan Edward Peterson: [Paths of Production: Spatial and Experimental Investigations of Native Copper Working In North America’s Native Copper Industry](abstracts/2025-18.qmd)
+
+Download abstracts as [PDF](assets/HMS-RiP2025_Abstracts.pdf). 
 
 ## Meeting 2024
 

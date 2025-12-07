@@ -1,10 +1,10 @@
 ---
-pagetitle: "HMS Research in Progress Meeting 2025"
+pagetitle: "HMS Research in Progress Meeting 2026"
 ---
 
-# Research in Progress Meeting 2025
-
-
+# Research in Progress Meeting 2026
+The date of the Research in Progress Meeting 2026 and further details will be announced in due time. 
+<!--
 ::: {.callout-important icon=false} 
 
 ## Important dates
@@ -19,7 +19,7 @@ pagetitle: "HMS Research in Progress Meeting 2025"
 
 ::: 
 
-## Announcement <!-- Call for Papers-->
+## Announcement | Call for Papers
 The Research in Progress Meeting 2025 of the [Historical Metallurgy Society](https://historicalmetallurgy.org/) will take place online on Friday, 28^th^ of November. It provides a forum for everyone working on topics related to ancient and historical metallurgical practices, the past use of metal objects, and related fields. We are keen to learn more about your ongoing or recently finished projects! The meeting aims to foster links between the different disciplines and geographical regions. Therefore, we particularly encourage submissions from early career researchers, contract archaeologists/conservators, and colleagues from outside Europe. There will be an HMS prize for the best student presentation. 
 
 <!--
@@ -27,12 +27,15 @@ Abstracts (up to 200 words) can be submitted until 1^st^ of October via the [sub
 
 Presentations can be either 6 min or 15 min long (with time for questions added). We encourage all presenters to take full advantage of the flexibility a virtual event provides and present their project in a way that suits them and their project best. Pre-recorded contribution are possible but the presenter must be present in the meeting to answer any questions. Presentations will be scheduled in a way that considers the different presenter’s time zones. -->
 
+<!--
 The event is open for everyone irrespective of their HMS membership status. Participation is free of charge. Please register for the event between 1^st^ of September and 24^th^ of November using the [registration form](https://forms.gle/dzQemocN3TtX6LhF7). The link to the meeting room will be displayed once you successfully registered.  
+-->
 
-<!-- The programme and any updates will be announced here and circulated by email. --> Please contact Thomas Rose (<roseth@posteo.com>) for any questions and general inquiries. 
+<!-- The programme and any updates will be announced here and circulated by email. Please contact Thomas Rose (<roseth@posteo.com>) for any questions and general inquiries. 
 
-We are looking forward to seeing you in November! 
+We are looking forward to seeing you in November! -->
 
+<!--
 ## Programme
 
 [Time zone conversions:  
@@ -50,23 +53,11 @@ Abstracts can be found in the [abstract repository](abstracts.qmd) or [downloade
 |------|----------------|
 |10:00 | Welcome |
 |10:10 | Sébastien Clouet: <br> [Bồng Miêu Gold Mine: Technological evolution and colonial adaptation in Southeast Asia](abstracts/2025-1.qmd) |
-|10:30 | Skand Manjul, Arvin Manjul & Sanjay Kr Manjul: <br> [Weapons, Rituals, and the Making of a Warrior Society? A Use-Wear Assessment of Swords and Associated Artefacts with Weapon Function and Social Identity of Sinauli](abstracts/2025-2.qmd) | 
-|10:50 | Sabikun Naher, Pranab K. Chattopadhyay & Jesmin Nahar Jhumur: <br> [Metallurgy and Firepower: A Technological Overvie of Iron Cannonry in Medieval Bengal](abstracts/2025-3.qmd) | 
-|11:00 | Peter King: <br> [British Gunfounding after the Weald](abstracts/2025-4.qmd) | 
-|11:20 | Rowan Taylor: <br> [On the constructional detail of the type 2 mediaeval anchor from Ladby, Denmark](abstracts/2025-5.qmd) | 
+...
 |11:40 | *Break* |
-|12:10 | Nayanathara S & Suhash Ranjan Dey: <br> [Exploring Ancient Indian Panchadhatu and Ashtadhatu-Making Traditions as Prototypes of Modern High Entropy Alloys](abstracts/2025-7.qmd) | 
-|12:30 | Kutsi Akcicek, Jiaxu Zuo, Heather Viles & Sinan Acikgoz: <br> [Investigating Failure Mechanisms in Archaeological and Modern Wrought Irons ](abstracts/2025-8.qmd) | 
-|12:50 | Omid Oudbashi & Russell Wanhill: <br> [Iranian Copper Alloys Archaeometallurgy, Corrosion, and Cultural Heritage Management ](abstracts/2025-9.qmd) | 
-|13:10 | John Strachan: <br> [Metallographic and Neutron Analysis of EBA metalworking traditions](abstracts/2025-10.qmd)
-|13:20 | Silvester PM Baba & Mwayi Woyamba Lusaka: <br> [The preservation and conservation of Phopo hill, an archaeometallurgical site in Rumphi, Malawi ](abstracts/2025-11.qmd) | 
-|13:40 | Ilaria Calgaro: <br> [Metal production in the 2nd millennium BC Eurasian Steppe: An update of research](abstracts/2025-17.qmd) |  
-|14:00 | *Break* | 
-|14:40 | Hailay Atsbha: <br> [The Spatial Distribution of Iron slag Evidence Sites in Northern Ethiopia (Tigray)](abstracts/2025-14.qmd) | 
-|15:00 | Tomáš Kroupa: <br> [The Archaeology of Ironworking Landscape: The Case Study of Brdy Mountains, the Czech Republic](abstracts/2025-16.qmd) |  
-|15:20 | Ivan Stepanov, Hüseyin Öztürk, Michael Brauns, Ernst Pernicka, Nurullah Hanilçi & Ümit Güder: <br> [First insights into the origin of iron in eastern Cilicia during the Iron Age, using osmium isotope and trace element analysis](abstracts/2025-12.qmd) | 
-|15:40 | Ryan Edward Peterson: <br> [Paths of Production: Spatial and Experimental Investigations of Native Copper Working In North America’s Native Copper Industry](abstracts/2025-18.qmd) | 
+...
 |16:00 | Awards announcement, closing|
+-->
 
 ## Code of conduct
 All participants at the Research in Progress Meetings agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to providing an inclusive, respectful, safe, friendly, and welcoming online meeting for all participants.
