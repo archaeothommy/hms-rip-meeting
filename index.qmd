@@ -23,6 +23,13 @@ pagetitle: "HMS Research in Progress Meeting 2026"
 ## Announcement | Call for Papers
 The Research in Progress Meeting 2026 of the [Historical Metallurgy Society](https://historicalmetallurgy.org/) will take place in Cambridge (UK) and online on Friday, 27^th^ of November. It provides a forum for everyone working on topics related to ancient and historical metallurgical practices, the past use of metal objects, and related fields. We are keen to learn more about your ongoing or recently finished projects! The meeting aims to foster links between the different disciplines and geographical regions. Therefore, we particularly encourage submissions from early career researchers, contract archaeologists/conservators, and colleagues from outside Europe. There will be an HMS prize for the best student presentation. 
 
+::: {.column-margin}
+
+  
+
+:::
+
+
 More details will follow soon. 
 
 <!--
@@ -71,7 +78,7 @@ Photography, video, recording or screen-captures of session content or presentat
 
 If a participant engages in harassing behaviour, the event organisers may take any action they deem appropriate, including warning the offender and/or expulsion from the event. If you are being harassed, if you notice that someone else is being harassed, or have any other concerns, please contact one of the organisers immediately. 
 
-We value your attendance and want the Research in Progress Meeting 2024 to be a safe place for everybody. 
+We value your attendance and want the Research in Progress Meeting 2026 to be a safe place for everybody. 
 
 ## Contact
-Please write [Thomas Rose](<roseth@posteo.com>) for any inquiries about the meeting. 
+The meeting is organised by Bruna Pelegrín-Garcia, Sarah Grabowski, and Mélissa Morel. Please write them for any inquiries about the meeting: <hms.rip2026@outlook.com>.
