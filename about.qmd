@@ -4,13 +4,13 @@ title: "About"
 
 ## Legal Notice
 
-Provider according to § 5 TMG is:  
+Provider:  
 Thomas Rose  
-Fahrenheitstraße 52  
-44879 Bochum  
-Germany  
+6 Whittier Place  
+Boston  
+MA 02114  
+United States  
 
-Phone +49 1522 3176524  
 E-Mail: roseth [at] posteo.com
 
 ## Privacy
